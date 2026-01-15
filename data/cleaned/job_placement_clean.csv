@@ -1,0 +1,701 @@
+name,gender,age,degree,stream,college_name,placement_status,salary,gpa,years_of_experience
+John Doe,Male,25,Bachelor's,Computer Science,Harvard University,1,60000.0,3.7,2.0
+Jane Smith,Female,24,Bachelor's,Electrical Engineering,Massachusetts Institute of Technology,1,65000.0,3.6,1.0
+Michael Johnson,Male,26,Bachelor's,Mechanical Engineering,Stanford University,1,58000.0,3.8,3.0
+Emily Davis,Female,23,Bachelor's,Information Technology,Yale University,0,,3.5,2.0
+David Brown,Male,24,Bachelor's,Computer Science,Princeton University,1,62000.0,3.9,2.0
+Sarah Wilson,Female,25,Bachelor's,Electronics and Communication,Columbia University,1,63000.0,3.7,1.0
+James Martinez,Male,26,Bachelor's,Information Technology,California Institute of Technology,1,59000.0,3.8,3.0
+Emma Garcia,Female,24,Bachelor's,Computer Science,University of Chicago,0,,3.6,2.0
+Alexander Taylor,Male,25,Bachelor's,Electrical Engineering,University of Pennsylvania,1,64000.0,3.7,2.0
+Samantha Anderson,Female,23,Bachelor's,Mechanical Engineering,Northwestern University,1,57000.0,3.5,1.0
+William Hernandez,Male,24,Bachelor's,Computer Science,Duke University,1,61000.0,3.9,2.0
+Ava Lopez,Female,25,Bachelor's,Electronics and Communication,Johns Hopkins University,0,,3.8,3.0
+Daniel Martinez,Male,26,Bachelor's,Information Technology,University of California--Berkeley,1,63000.0,3.7,2.0
+Mia Gonzalez,Female,24,Bachelor's,Computer Science,University of Michigan--Ann Arbor,1,64000.0,3.6,1.0
+Alexander Rodriguez,Male,23,Bachelor's,Electrical Engineering,University of California--Los Angeles,1,66000.0,3.8,3.0
+Isabella Perez,Female,25,Bachelor's,Mechanical Engineering,University of Virginia,0,,3.7,2.0
+Ethan Turner,Male,26,Bachelor's,Computer Science,University of Wisconsin--Madison,1,61000.0,3.9,2.0
+Olivia Moore,Female,24,Bachelor's,Electronics and Communication,University of Illinois--Urbana-Champaign,1,62000.0,3.8,1.0
+Mason Parker,Male,23,Bachelor's,Information Technology,University of North Carolina--Chapel Hill,1,59000.0,3.7,2.0
+Amelia Rivera,Female,25,Bachelor's,Computer Science,University of Washington,1,65000.0,3.6,1.0
+Lucas Reed,Male,24,Bachelor's,Electrical Engineering,University of California--San Diego,1,67000.0,3.5,3.0
+Elizabeth Wood,Female,26,Bachelor's,Mechanical Engineering,University of Texas--Austin,0,,3.8,3.0
+Aiden Ward,Male,23,Bachelor's,Computer Science,University of California--Santa Barbara,1,60000.0,3.7,2.0
+Charlotte Ross,Female,25,Bachelor's,Electronics and Communication,University of Southern California,1,63000.0,3.6,1.0
+Owen Brooks,Male,26,Bachelor's,Information Technology,University of Florida,1,60000.0,3.9,2.0
+Grace Watson,Female,24,Bachelor's,Computer Science,University of Minnesota--Twin Cities,0,,3.8,3.0
+Jack Bailey,Male,23,Bachelor's,Electrical Engineering,University of Maryland--College Park,1,64000.0,3.7,2.0
+Natalie Murphy,Female,25,Bachelor's,Mechanical Engineering,University of California--Davis,1,66000.0,3.5,1.0
+Liam Russell,Male,24,Bachelor's,Computer Science,University of Pittsburgh,1,59000.0,3.7,2.0
+Chloe Peterson,Female,26,Bachelor's,Electronics and Communication,University of Colorado--Boulder,1,62000.0,3.6,1.0
+Elijah Kelly,Male,23,Bachelor's,Information Technology,University of Rochester,1,61000.0,3.9,2.0
+Anna Cooper,Female,25,Bachelor's,Computer Science,Boston College,0,,3.8,3.0
+Lucas Reed,Male,26,Bachelor's,Electrical Engineering,Rice University,1,65000.0,3.5,3.0
+Sophia Price,Female,24,Bachelor's,Electronics and Communication,University of California--Irvine,1,64000.0,3.6,1.0
+Mason Parker,Male,23,Bachelor's,Information Technology,Georgetown University,1,67000.0,3.7,2.0
+Olivia Moore,Female,25,Bachelor's,Computer Science,University of Georgia,0,,3.6,1.0
+William Hernandez,Male,24,Bachelor's,Information Technology,University of Notre Dame,1,63000.0,3.7,2.0
+Amelia Rivera,Female,26,Bachelor's,Computer Science,University of Iowa,1,62000.0,3.8,3.0
+Ethan Turner,Male,23,Bachelor's,Electrical Engineering,University of California--Santa Cruz,1,60000.0,3.7,2.0
+Isabella Perez,Female,25,Bachelor's,Mechanical Engineering,University of Connecticut,1,61000.0,3.5,1.0
+Daniel Martinez,Male,24,Bachelor's,Computer Science,University of California--Riverside,0,,3.9,2.0
+Mia Gonzalez,Female,26,Bachelor's,Electronics and Communication,University of Delaware,1,65000.0,3.7,1.0
+Alexander Rodriguez,Male,23,Bachelor's,Information Technology,University of California--San Francisco,1,66000.0,3.8,3.0
+Olivia Moore,Female,25,Bachelor's,Computer Science,University of Texas--Dallas,1,63000.0,3.6,1.0
+Jack Bailey,Male,26,Bachelor's,Electrical Engineering,University of Virginia,1,64000.0,3.9,2.0
+Charlotte Ross,Female,24,Bachelor's,Mechanical Engineering,University of California--Santa Cruz,0,,3.4,1.0
+Owen Brooks,Male,23,Bachelor's,Computer Science,University of California--San Diego,1,65000.0,3.7,2.0
+Grace Watson,Female,25,Bachelor's,Electronics and Communication,University of Texas--Austin,1,66000.0,3.8,3.0
+Liam Russell,Male,26,Bachelor's,Information Technology,University of California--Los Angeles,1,67000.0,3.9,3.0
+Chloe Peterson,Female,24,Bachelor's,Computer Science,University of Michigan--Ann Arbor,1,68000.0,3.9,3.0
+Elijah Kelly,Male,23,Bachelor's,Electrical Engineering,University of Pennsylvania,0,,3.7,2.0
+Anna Cooper,Female,25,Bachelor's,Mechanical Engineering,University of Washington,1,67000.0,3.8,3.0
+Lucas Reed,Male,26,Bachelor's,Computer Science,University of California--Berkeley,1,66000.0,3.9,3.0
+Sophia Price,Female,24,Bachelor's,Electronics and Communication,University of Illinois--Urbana-Champaign,1,65000.0,3.8,3.0
+Mason Parker,Male,23,Bachelor's,Information Technology,University of Colorado--Boulder,1,66000.0,3.7,2.0
+Olivia Moore,Female,25,Bachelor's,Computer Science,University of North Carolina--Chapel Hill,0,,3.6,1.0
+William Hernandez,Male,24,Bachelor's,Information Technology,University of Maryland--College Park,1,63000.0,3.7,2.0
+Amelia Rivera,Female,26,Bachelor's,Computer Science,University of Rochester,1,62000.0,3.8,3.0
+Ethan Turner,Male,23,Bachelor's,Electrical Engineering,University of California--Santa Cruz,1,60000.0,3.7,2.0
+Isabella Perez,Female,25,Bachelor's,Mechanical Engineering,University of Connecticut,1,61000.0,3.5,1.0
+Daniel Martinez,Male,24,Bachelor's,Computer Science,University of California--Riverside,0,,3.9,2.0
+Mia Gonzalez,Female,26,Bachelor's,Electronics and Communication,University of Delaware,1,65000.0,3.7,1.0
+Alexander Rodriguez,Male,23,Bachelor's,Information Technology,University of California--San Francisco,1,66000.0,3.8,3.0
+Olivia Moore,Female,25,Bachelor's,Computer Science,University of Texas--Dallas,1,63000.0,3.6,1.0
+Jack Bailey,Male,26,Bachelor's,Electrical Engineering,University of Virginia,1,64000.0,3.9,2.0
+Charlotte Ross,Female,24,Bachelor's,Mechanical Engineering,University of California--Santa Cruz,0,,3.4,1.0
+Owen Brooks,Male,23,Bachelor's,Computer Science,University of California--San Diego,1,65000.0,3.7,2.0
+Grace Watson,Female,25,Bachelor's,Electronics and Communication,University of Texas--Austin,1,66000.0,3.8,3.0
+Liam Russell,Male,26,Bachelor's,Information Technology,University of California--Los Angeles,1,67000.0,3.9,3.0
+Chloe Peterson,Female,24,Bachelor's,Computer Science,University of Michigan--Ann Arbor,1,68000.0,3.9,3.0
+Elijah Kelly,Male,23,Bachelor's,Electrical Engineering,University of Pennsylvania,0,,3.7,2.0
+Anna Cooper,Female,25,Bachelor's,Mechanical Engineering,University of Washington,1,67000.0,3.8,3.0
+Lucas Reed,Male,26,Bachelor's,Computer Science,University of California--Berkeley,1,66000.0,3.9,3.0
+Sophia Price,Female,24,Bachelor's,Electronics and Communication,University of Illinois--Urbana-Champaign,1,65000.0,3.8,3.0
+Mason Parker,Male,23,Bachelor's,Information Technology,University of Colorado--Boulder,1,66000.0,3.7,2.0
+Olivia Moore,Female,25,Bachelor's,Computer Science,University of North Carolina--Chapel Hill,0,,3.6,1.0
+William Hernandez,Male,24,Bachelor's,Information Technology,University of Maryland--College Park,1,63000.0,3.7,2.0
+Amelia Rivera,Female,26,Bachelor's,Computer Science,University of Rochester,1,62000.0,3.8,3.0
+Ethan Turner,Male,23,Bachelor's,Electrical Engineering,University of California--Santa Cruz,1,60000.0,3.7,2.0
+Isabella Perez,Female,25,Bachelor's,Mechanical Engineering,University of Connecticut,1,61000.0,3.5,1.0
+Daniel Martinez,Male,24,Bachelor's,Computer Science,University of California--Riverside,0,,3.9,2.0
+Mia Gonzalez,Female,26,Bachelor's,Electronics and Communication,University of Delaware,1,65000.0,3.7,1.0
+Alexander Rodriguez,Male,23,Bachelor's,Information Technology,University of California--San Francisco,1,66000.0,3.8,3.0
+Olivia Moore,Female,25,Bachelor's,Computer Science,University of Texas--Dallas,1,63000.0,3.6,1.0
+Jack Bailey,Male,26,Bachelor's,Electrical Engineering,University of Virginia,1,64000.0,3.9,2.0
+Charlotte Ross,Female,24,Bachelor's,Mechanical Engineering,University of California--Santa Cruz,0,,3.4,1.0
+Owen Brooks,Male,23,Bachelor's,Computer Science,University of California--San Diego,1,65000.0,3.7,2.0
+Grace Watson,Female,25,Bachelor's,Electronics and Communication,University of Texas--Austin,1,66000.0,3.8,3.0
+Liam Russell,Male,26,Bachelor's,Information Technology,University of California--Los Angeles,1,67000.0,3.9,3.0
+Chloe Peterson,Female,24,Bachelor's,Computer Science,University of Michigan--Ann Arbor,1,68000.0,3.9,3.0
+Elijah Kelly,Male,23,Bachelor's,Electrical Engineering,University of Pennsylvania,0,,3.7,2.0
+Anna Cooper,Female,25,Bachelor's,Mechanical Engineering,University of Washington,1,67000.0,3.8,3.0
+Lucas Reed,Male,26,Bachelor's,Computer Science,University of California--Berkeley,1,66000.0,3.9,3.0
+Sophia Price,Female,24,Bachelor's,Electronics and Communication,University of Illinois--Urbana-Champaign,1,65000.0,3.8,3.0
+Mason Parker,Male,23,Bachelor's,Information Technology,University of Colorado--Boulder,1,66000.0,3.7,2.0
+Olivia Moore,Female,25,Bachelor's,Computer Science,University of North Carolina--Chapel Hill,0,,3.6,1.0
+William Hernandez,Male,24,Bachelor's,Information Technology,University of Maryland--College Park,1,63000.0,3.7,2.0
+Amelia Rivera,Female,26,Bachelor's,Computer Science,University of Rochester,1,62000.0,3.8,3.0
+Ethan Turner,Male,23,Bachelor's,Electrical Engineering,University of California--Santa Cruz,1,60000.0,3.7,2.0
+Isabella Perez,Female,25,Bachelor's,Mechanical Engineering,University of Connecticut,1,61000.0,3.5,1.0
+Daniel Martinez,Male,24,Bachelor's,Computer Science,University of California--Riverside,0,,3.9,2.0
+Mia Gonzalez,Female,26,Bachelor's,Electronics and Communication,University of Delaware,1,65000.0,3.7,1.0
+Alexander Rodriguez,Male,23,Bachelor's,Information Technology,University of California--San Francisco,1,66000.0,3.8,3.0
+Olivia Moore,Female,25,Bachelor's,Computer Science,University of Texas--Dallas,1,63000.0,3.6,1.0
+Jack Bailey,Male,26,Bachelor's,Electrical Engineering,University of Virginia,1,64000.0,3.9,2.0
+Charlotte Ross,Female,24,Bachelor's,Mechanical Engineering,University of California--Santa Cruz,0,,3.4,1.0
+Owen Brooks,Male,23,Bachelor's,Computer Science,University of California--San Diego,1,65000.0,3.7,2.0
+Grace Watson,Female,25,Bachelor's,Electronics and Communication,University of Texas--Austin,1,66000.0,3.8,3.0
+Liam Russell,Male,26,Bachelor's,Information Technology,University of California--Los Angeles,1,67000.0,3.9,3.0
+Chloe Peterson,Female,24,Bachelor's,Computer Science,University of Michigan--Ann Arbor,1,68000.0,3.9,3.0
+Elijah Kelly,Male,23,Bachelor's,Electrical Engineering,University of Pennsylvania,0,,3.7,2.0
+Anna Cooper,Female,25,Bachelor's,Mechanical Engineering,University of Washington,1,67000.0,3.8,3.0
+Lucas Reed,Male,26,Bachelor's,Computer Science,University of California--Berkeley,1,66000.0,3.9,3.0
+Sophia Price,Female,24,Bachelor's,Electronics and Communication,University of Illinois--Urbana-Champaign,1,65000.0,3.8,3.0
+Mason Parker,Male,23,Bachelor's,Information Technology,University of Colorado--Boulder,1,66000.0,3.7,2.0
+Olivia Moore,Female,25,Bachelor's,Computer Science,University of North Carolina--Chapel Hill,0,,3.6,1.0
+William Hernandez,Male,24,Bachelor's,Information Technology,University of Maryland--College Park,1,63000.0,3.7,2.0
+Amelia Rivera,Female,26,Bachelor's,Computer Science,University of Rochester,1,62000.0,3.8,3.0
+Ethan Turner,Male,23,Bachelor's,Electrical Engineering,University of California--Santa Cruz,1,60000.0,3.7,2.0
+Isabella Perez,Female,25,Bachelor's,Mechanical Engineering,University of Connecticut,1,61000.0,3.5,1.0
+Daniel Martinez,Male,24,Bachelor's,Computer Science,University of California--Riverside,0,,3.9,2.0
+Mia Gonzalez,Female,26,Bachelor's,Electronics and Communication,University of Delaware,1,65000.0,3.7,1.0
+Alexander Rodriguez,Male,23,Bachelor's,Information Technology,University of California--San Francisco,1,66000.0,3.8,3.0
+Olivia Moore,Female,25,Bachelor's,Computer Science,University of Texas--Dallas,1,63000.0,3.6,1.0
+Jack Bailey,Male,26,Bachelor's,Electrical Engineering,University of Virginia,1,64000.0,3.9,2.0
+Charlotte Ross,Female,24,Bachelor's,Mechanical Engineering,University of California--Santa Cruz,0,,3.4,1.0
+Owen Brooks,Male,23,Bachelor's,Computer Science,University of California--San Diego,1,65000.0,3.7,2.0
+Grace Watson,Female,25,Bachelor's,Electronics and Communication,University of Texas--Austin,1,66000.0,3.8,3.0
+Liam Russell,Male,26,Bachelor's,Information Technology,University of California--Los Angeles,1,67000.0,3.9,3.0
+Chloe Peterson,Female,24,Bachelor's,Computer Science,University of Michigan--Ann Arbor,1,68000.0,3.9,3.0
+Elijah Kelly,Male,23,Bachelor's,Electrical Engineering,University of Pennsylvania,0,,3.7,2.0
+Anna Cooper,Female,25,Bachelor's,Mechanical Engineering,University of Washington,1,67000.0,3.8,3.0
+Lucas Reed,Male,26,Bachelor's,Computer Science,University of California--Berkeley,1,66000.0,3.9,3.0
+Sophia Price,Female,24,Bachelor's,Electronics and Communication,University of Illinois--Urbana-Champaign,1,65000.0,3.8,3.0
+Mason Parker,Male,23,Bachelor's,Information Technology,University of Colorado--Boulder,1,66000.0,3.7,2.0
+Olivia Moore,Female,25,Bachelor's,Computer Science,University of North Carolina--Chapel Hill,0,,3.6,1.0
+William Hernandez,Male,24,Bachelor's,Information Technology,University of Maryland--College Park,1,63000.0,3.7,2.0
+Amelia Rivera,Female,26,Bachelor's,Computer Science,University of Rochester,1,62000.0,3.8,3.0
+Ethan Turner,Male,23,Bachelor's,Electrical Engineering,University of California--Santa Cruz,1,60000.0,3.7,2.0
+Isabella Perez,Female,25,Bachelor's,Mechanical Engineering,University of Connecticut,1,61000.0,3.5,1.0
+Daniel Martinez,Male,24,Bachelor's,Computer Science,University of California--Riverside,0,,3.9,2.0
+Mia Gonzalez,Female,26,Bachelor's,Electronics and Communication,University of Delaware,1,65000.0,3.7,1.0
+Alexander Rodriguez,Male,23,Bachelor's,Information Technology,University of California--San Francisco,1,66000.0,3.8,3.0
+Olivia Moore,Female,25,Bachelor's,Computer Science,University of Texas--Dallas,1,63000.0,3.6,1.0
+Jack Bailey,Male,26,Bachelor's,Electrical Engineering,University of Virginia,1,64000.0,3.9,2.0
+Charlotte Ross,Female,24,Bachelor's,Mechanical Engineering,University of California--Santa Cruz,0,,3.4,1.0
+Owen Brooks,Male,23,Bachelor's,Computer Science,University of California--San Diego,1,65000.0,3.7,2.0
+Grace Watson,Female,25,Bachelor's,Electronics and Communication,University of Texas--Austin,1,66000.0,3.8,3.0
+Liam Russell,Male,26,Bachelor's,Information Technology,University of California--Los Angeles,1,67000.0,3.9,3.0
+Chloe Peterson,Female,24,Bachelor's,Computer Science,University of Michigan--Ann Arbor,1,68000.0,3.9,3.0
+Elijah Kelly,Male,23,Bachelor's,Electrical Engineering,University of Pennsylvania,0,,3.7,2.0
+Anna Cooper,Female,25,Bachelor's,Mechanical Engineering,University of Washington,1,67000.0,3.8,3.0
+Lucas Reed,Male,26,Bachelor's,Computer Science,University of California--Berkeley,1,66000.0,3.9,3.0
+Sophia Price,Female,24,Bachelor's,Electronics and Communication,University of Illinois--Urbana-Champaign,1,65000.0,3.8,3.0
+Mason Parker,Male,23,Bachelor's,Information Technology,University of Colorado--Boulder,1,66000.0,3.7,2.0
+Olivia Moore,Female,25,Bachelor's,Computer Science,University of North Carolina--Chapel Hill,0,,3.6,1.0
+William Hernandez,Male,24,Bachelor's,Information Technology,University of Maryland--College Park,1,63000.0,3.7,2.0
+Amelia Rivera,Female,26,Bachelor's,Computer Science,University of Rochester,1,62000.0,3.8,3.0
+Ethan Turner,Male,23,Bachelor's,Electrical Engineering,University of California--Santa Cruz,1,60000.0,3.7,2.0
+Isabella Perez,Female,25,Bachelor's,Mechanical Engineering,University of Connecticut,1,61000.0,3.5,1.0
+Daniel Martinez,Male,24,Bachelor's,Computer Science,University of California--Riverside,0,,3.9,2.0
+Mia Gonzalez,Female,26,Bachelor's,Electronics and Communication,University of Delaware,1,65000.0,3.7,1.0
+Alexander Rodriguez,Male,23,Bachelor's,Information Technology,University of California--San Francisco,1,66000.0,3.8,3.0
+Olivia Moore,Female,25,Bachelor's,Computer Science,University of Texas--Dallas,1,63000.0,3.6,1.0
+Jack Bailey,Male,26,Bachelor's,Electrical Engineering,University of Virginia,1,64000.0,3.9,2.0
+Charlotte Ross,Female,24,Bachelor's,Mechanical Engineering,University of California--Santa Cruz,0,,3.4,1.0
+Owen Brooks,Male,23,Bachelor's,Computer Science,University of California--San Diego,1,65000.0,3.7,2.0
+Grace Watson,Female,25,Bachelor's,Electronics and Communication,University of Texas--Austin,1,66000.0,3.8,3.0
+Liam Russell,Male,26,Bachelor's,Information Technology,University of California--Los Angeles,1,67000.0,3.9,3.0
+Chloe Peterson,Female,24,Bachelor's,Computer Science,University of Michigan--Ann Arbor,1,68000.0,3.9,3.0
+Elijah Kelly,Male,23,Bachelor's,Electrical Engineering,University of Pennsylvania,0,,3.7,2.0
+Anna Cooper,Female,25,Bachelor's,Mechanical Engineering,University of Washington,1,67000.0,3.8,3.0
+Lucas Reed,Male,26,Bachelor's,Computer Science,University of California--Berkeley,1,66000.0,3.9,3.0
+Sophia Price,Female,24,Bachelor's,Electronics and Communication,University of Illinois--Urbana-Champaign,1,65000.0,3.8,3.0
+Mason Parker,Male,23,Bachelor's,Information Technology,University of Colorado--Boulder,1,66000.0,3.7,2.0
+Olivia Moore,Female,25,Bachelor's,Computer Science,University of North Carolina--Chapel Hill,0,,3.6,1.0
+William Hernandez,Male,24,Bachelor's,Information Technology,University of Maryland--College Park,1,63000.0,3.7,2.0
+Amelia Rivera,Female,26,Bachelor's,Computer Science,University of Rochester,1,62000.0,3.8,3.0
+Ethan Turner,Male,23,Bachelor's,Electrical Engineering,University of California--Santa Cruz,1,60000.0,3.7,2.0
+Isabella Perez,Female,25,Bachelor's,Mechanical Engineering,University of Connecticut,1,61000.0,3.5,1.0
+Daniel Martinez,Male,24,Bachelor's,Computer Science,University of California--Riverside,0,,3.9,2.0
+Mia Gonzalez,Female,26,Bachelor's,Electronics and Communication,University of Delaware,1,65000.0,3.7,1.0
+Alexander Rodriguez,Male,23,Bachelor's,Information Technology,University of California--San Francisco,1,66000.0,3.8,3.0
+Olivia Moore,Female,25,Bachelor's,Computer Science,University of Texas--Dallas,1,63000.0,3.6,1.0
+Jack Bailey,Male,26,Bachelor's,Electrical Engineering,University of Virginia,1,64000.0,3.9,2.0
+Charlotte Ross,Female,24,Bachelor's,Mechanical Engineering,University of California--Santa Cruz,0,,3.4,1.0
+Owen Brooks,Male,23,Bachelor's,Computer Science,University of California--San Diego,1,65000.0,3.7,2.0
+Grace Watson,Female,25,Bachelor's,Electronics and Communication,University of Texas--Austin,1,66000.0,3.8,3.0
+Emma Brown,Female,23,Bachelor's,Information Technology,University of Maryland--College Park,1,61000.0,3.7,2.0
+Noah Garcia,Male,24,Bachelor's,Computer Science,University of Michigan--Ann Arbor,1,64000.0,3.8,3.0
+Sophia Martinez,Female,25,Bachelor's,Electrical Engineering,University of California--Los Angeles,1,66000.0,3.9,3.0
+Liam Rodriguez,Male,26,Bachelor's,Mechanical Engineering,University of Virginia,1,67000.0,3.9,3.0
+Olivia Smith,Female,24,Bachelor's,Electronics and Communication,University of Texas--Austin,1,68000.0,3.9,3.0
+Ethan Johnson,Male,23,Bachelor's,Computer Science,University of Pennsylvania,0,,3.7,2.0
+Ava Williams,Female,25,Bachelor's,Information Technology,University of Washington,1,67000.0,3.8,3.0
+Liam Brown,Male,26,Bachelor's,Electrical Engineering,University of California--Berkeley,1,66000.0,3.9,3.0
+Amelia Smith,Female,24,Bachelor's,Mechanical Engineering,University of Illinois--Urbana-Champaign,1,65000.0,3.8,3.0
+William Garcia,Male,23,Bachelor's,Electronics and Communication,University of Colorado--Boulder,1,66000.0,3.7,2.0
+Olivia Brown,Female,25,Bachelor's,Computer Science,University of North Carolina--Chapel Hill,0,,3.6,1.0
+Elijah Garcia,Male,24,Bachelor's,Information Technology,University of Maryland--College Park,1,63000.0,3.7,2.0
+Emma Brown,Female,23,Bachelor's,Computer Science,University of Michigan--Ann Arbor,1,64000.0,3.8,3.0
+Noah Garcia,Male,24,Bachelor's,Electrical Engineering,University of California--Los Angeles,1,66000.0,3.9,3.0
+Sophia Martinez,Female,25,Bachelor's,Mechanical Engineering,University of Virginia,1,67000.0,3.9,3.0
+Liam Rodriguez,Male,26,Bachelor's,Electronics and Communication,University of Texas--Austin,1,68000.0,3.9,3.0
+Olivia Smith,Female,24,Bachelor's,Computer Science,University of Pennsylvania,0,,3.7,2.0
+Ethan Johnson,Male,23,Bachelor's,Information Technology,University of Washington,1,67000.0,3.8,3.0
+Ava Williams,Female,25,Bachelor's,Electrical Engineering,University of California--Berkeley,1,66000.0,3.9,3.0
+Liam Brown,Male,26,Bachelor's,Mechanical Engineering,University of Illinois--Urbana-Champaign,1,65000.0,3.8,3.0
+Amelia Smith,Female,24,Bachelor's,Electronics and Communication,University of Colorado--Boulder,1,66000.0,3.7,2.0
+William Garcia,Male,23,Bachelor's,Computer Science,University of North Carolina--Chapel Hill,0,,3.6,1.0
+Olivia Brown,Female,25,Bachelor's,Information Technology,University of Maryland--College Park,1,63000.0,3.7,2.0
+Elijah Garcia,Male,24,Bachelor's,Electrical Engineering,University of Michigan--Ann Arbor,1,64000.0,3.8,3.0
+Emma Brown,Female,23,Bachelor's,Mechanical Engineering,University of California--Los Angeles,1,66000.0,3.9,3.0
+Noah Garcia,Male,24,Bachelor's,Electronics and Communication,University of Virginia,1,67000.0,3.9,3.0
+Sophia Martinez,Female,25,Bachelor's,Computer Science,University of Texas--Austin,1,68000.0,3.9,3.0
+Liam Rodriguez,Male,26,Bachelor's,Information Technology,University of Pennsylvania,0,,3.7,2.0
+Olivia Smith,Female,24,Bachelor's,Electrical Engineering,University of Washington,1,67000.0,3.8,3.0
+Ethan Johnson,Male,23,Bachelor's,Mechanical Engineering,University of California--Berkeley,1,66000.0,3.9,3.0
+Ava Williams,Female,25,Bachelor's,Electronics and Communication,University of Illinois--Urbana-Champaign,1,65000.0,3.8,3.0
+Liam Brown,Male,26,Bachelor's,Computer Science,University of Colorado--Boulder,1,66000.0,3.7,2.0
+Amelia Smith,Female,24,Bachelor's,Information Technology,University of North Carolina--Chapel Hill,0,,3.6,1.0
+William Garcia,Male,23,Bachelor's,Electrical Engineering,University of Maryland--College Park,1,63000.0,3.7,2.0
+Olivia Brown,Female,25,Bachelor's,Mechanical Engineering,University of Michigan--Ann Arbor,1,64000.0,3.8,3.0
+Elijah Garcia,Male,24,Bachelor's,Electronics and Communication,University of California--Los Angeles,1,66000.0,3.9,3.0
+Emma Brown,Female,23,Bachelor's,Computer Science,University of Virginia,1,67000.0,3.9,3.0
+Noah Garcia,Male,24,Bachelor's,Information Technology,University of Texas--Austin,1,68000.0,3.9,3.0
+Sophia Martinez,Female,25,Bachelor's,Electrical Engineering,University of Pennsylvania,0,,3.7,2.0
+Liam Rodriguez,Male,26,Bachelor's,Mechanical Engineering,University of Washington,1,67000.0,3.8,3.0
+Olivia Smith,Female,24,Bachelor's,Electronics and Communication,University of California--Berkeley,1,66000.0,3.9,3.0
+Ethan Johnson,Male,23,Bachelor's,Computer Science,University of Illinois--Urbana-Champaign,1,65000.0,3.8,3.0
+Ava Williams,Female,25,Bachelor's,Information Technology,University of Colorado--Boulder,1,66000.0,3.7,2.0
+Liam Brown,Male,26,Bachelor's,Electrical Engineering,University of North Carolina--Chapel Hill,0,,3.6,1.0
+Amelia Smith,Female,24,Bachelor's,Mechanical Engineering,University of Maryland--College Park,1,63000.0,3.7,2.0
+William Garcia,Male,23,Bachelor's,Electronics and Communication,University of Michigan--Ann Arbor,1,64000.0,3.8,3.0
+Olivia Brown,Female,25,Bachelor's,Computer Science,University of California--Los Angeles,1,66000.0,3.9,3.0
+Elijah Garcia,Male,24,Bachelor's,Information Technology,University of Virginia,1,67000.0,3.9,3.0
+Emma Brown,Female,23,Bachelor's,Electrical Engineering,University of Texas--Austin,1,68000.0,3.9,3.0
+Noah Garcia,Male,24,Bachelor's,Mechanical Engineering,University of Pennsylvania,0,,3.7,2.0
+Sophia Martinez,Female,25,Bachelor's,Electronics and Communication,University of Washington,1,67000.0,3.8,3.0
+Liam Rodriguez,Male,26,Bachelor's,Computer Science,University of California--Berkeley,1,66000.0,3.9,3.0
+Olivia Smith,Female,24,Bachelor's,Information Technology,University of Illinois--Urbana-Champaign,1,65000.0,3.8,3.0
+Ethan Johnson,Male,23,Bachelor's,Electrical Engineering,University of Colorado--Boulder,1,66000.0,3.7,2.0
+Ava Williams,Female,25,Bachelor's,Mechanical Engineering,University of North Carolina--Chapel Hill,0,,3.6,1.0
+Liam Brown,Male,26,Bachelor's,Electronics and Communication,University of Maryland--College Park,1,63000.0,3.7,2.0
+Amelia Smith,Female,24,Bachelor's,Computer Science,University of Michigan--Ann Arbor,1,64000.0,3.8,3.0
+William Garcia,Male,23,Bachelor's,Information Technology,University of California--Los Angeles,1,66000.0,3.9,3.0
+Olivia Brown,Female,25,Bachelor's,Electrical Engineering,University of Virginia,1,67000.0,3.9,3.0
+Elijah Garcia,Male,24,Bachelor's,Mechanical Engineering,University of Texas--Austin,1,68000.0,3.9,3.0
+Emma Brown,Female,23,Bachelor's,Electronics and Communication,University of Pennsylvania,0,,3.7,2.0
+Noah Garcia,Male,24,Bachelor's,Computer Science,University of Washington,1,67000.0,3.8,3.0
+Sophia Martinez,Female,25,Bachelor's,Information Technology,University of California--Berkeley,1,66000.0,3.9,3.0
+Liam Rodriguez,Male,26,Bachelor's,Electrical Engineering,University of Illinois--Urbana-Champaign,1,65000.0,3.8,3.0
+Olivia Smith,Female,24,Bachelor's,Mechanical Engineering,University of Colorado--Boulder,1,66000.0,3.7,2.0
+Ethan Johnson,Male,23,Bachelor's,Electronics and Communication,University of North Carolina--Chapel Hill,0,,3.6,1.0
+Ava Williams,Female,25,Bachelor's,Computer Science,University of Maryland--College Park,1,63000.0,3.7,2.0
+Liam Brown,Male,26,Bachelor's,Information Technology,University of Michigan--Ann Arbor,1,64000.0,3.8,3.0
+Amelia Smith,Female,24,Bachelor's,Electrical Engineering,University of California--Los Angeles,1,66000.0,3.9,3.0
+William Garcia,Male,23,Bachelor's,Mechanical Engineering,University of Virginia,1,67000.0,3.9,3.0
+Olivia Brown,Female,25,Bachelor's,Electronics and Communication,University of Texas--Austin,1,68000.0,3.9,3.0
+Elijah Garcia,Male,24,Bachelor's,Computer Science,University of Pennsylvania,0,,3.7,2.0
+Emma Brown,Female,23,Bachelor's,Information Technology,University of Washington,1,67000.0,3.8,3.0
+Noah Garcia,Male,24,Bachelor's,Electrical Engineering,University of California--Berkeley,1,66000.0,3.9,3.0
+Sophia Martinez,Female,25,Bachelor's,Mechanical Engineering,University of Illinois--Urbana-Champaign,1,65000.0,3.8,3.0
+Liam Rodriguez,Male,26,Bachelor's,Electronics and Communication,University of Colorado--Boulder,1,66000.0,3.7,2.0
+Olivia Smith,Female,24,Bachelor's,Computer Science,University of North Carolina--Chapel Hill,0,,3.6,1.0
+Ethan Johnson,Male,23,Bachelor's,Information Technology,University of Maryland--College Park,1,63000.0,3.7,2.0
+Ava Williams,Female,25,Bachelor's,Electrical Engineering,University of Michigan--Ann Arbor,1,64000.0,3.8,3.0
+Liam Brown,Male,26,Bachelor's,Mechanical Engineering,University of California--Los Angeles,1,66000.0,3.9,3.0
+Amelia Smith,Female,24,Bachelor's,Electronics and Communication,University of Virginia,1,67000.0,3.9,3.0
+William Garcia,Male,23,Bachelor's,Computer Science,University of Texas--Austin,1,68000.0,3.9,3.0
+Olivia Brown,Female,25,Bachelor's,Information Technology,University of Pennsylvania,0,,3.7,2.0
+Elijah Garcia,Male,24,Bachelor's,Electrical Engineering,University of Washington,1,67000.0,3.8,3.0
+Emma Brown,Female,23,Bachelor's,Mechanical Engineering,University of California--Berkeley,1,66000.0,3.9,3.0
+Noah Garcia,Male,24,Bachelor's,Electronics and Communication,University of Illinois--Urbana-Champaign,1,65000.0,3.8,3.0
+Sophia Martinez,Female,25,Bachelor's,Computer Science,University of Colorado--Boulder,1,66000.0,3.7,2.0
+Liam Rodriguez,Male,24,Bachelor's,Computer Science,University of California--San Diego,1,64000.0,3.6,2.0
+Emily Watson,Female,25,Bachelor's,Electrical Engineering,University of Texas--Austin,1,65000.0,3.7,2.0
+Nathan Garcia,Male,23,Bachelor's,Information Technology,University of California--Los Angeles,1,67000.0,3.8,3.0
+Sophia Hernandez,Female,26,Bachelor's,Mechanical Engineering,University of Michigan--Ann Arbor,1,68000.0,3.9,3.0
+Oliver Martinez,Male,24,Bachelor's,Computer Science,University of Pennsylvania,0,,3.7,2.0
+Amelia Lee,Female,25,Bachelor's,Electronics and Communication,University of Washington,1,67000.0,3.8,3.0
+Ethan Johnson,Male,23,Bachelor's,Information Technology,University of California--Berkeley,1,66000.0,3.9,3.0
+Isabella Smith,Female,26,Bachelor's,Mechanical Engineering,University of Illinois--Urbana-Champaign,1,65000.0,3.8,3.0
+Aiden Brown,Male,24,Bachelor's,Computer Science,University of Colorado--Boulder,1,66000.0,3.7,2.0
+Sophia Jones,Female,25,Bachelor's,Electrical Engineering,University of North Carolina--Chapel Hill,0,,3.6,1.0
+Lucas Taylor,Male,23,Bachelor's,Information Technology,University of Maryland--College Park,1,63000.0,3.7,2.0
+Emma Martinez,Female,26,Bachelor's,Mechanical Engineering,University of Rochester,1,62000.0,3.8,3.0
+Aiden Davis,Male,24,Bachelor's,Computer Science,University of California--Santa Cruz,1,60000.0,3.7,2.0
+Mia Wilson,Female,23,Bachelor's,Electronics and Communication,University of Connecticut,1,61000.0,3.5,1.0
+Jack Garcia,Male,26,Bachelor's,Information Technology,University of California--Riverside,0,,3.9,2.0
+Emma Lopez,Female,24,Bachelor's,Mechanical Engineering,University of Delaware,1,65000.0,3.7,1.0
+Oliver Rodriguez,Male,23,Bachelor's,Computer Science,University of California--San Francisco,1,66000.0,3.8,3.0
+Chloe Hernandez,Female,26,Bachelor's,Electrical Engineering,University of Texas--Dallas,1,63000.0,3.6,1.0
+Ava Lee,Female,24,Bachelor's,Information Technology,University of Virginia,1,64000.0,3.9,2.0
+Liam Perez,Male,25,Bachelor's,Computer Science,University of California--Los Angeles,1,67000.0,3.9,3.0
+Isabella Martinez,Female,23,Bachelor's,Electronics and Communication,University of Michigan--Ann Arbor,1,68000.0,3.9,3.0
+Alexander Lee,Male,26,Bachelor's,Information Technology,University of Pennsylvania,0,,3.7,2.0
+Sophia Johnson,Female,24,Bachelor's,Mechanical Engineering,University of Washington,1,67000.0,3.8,3.0
+Lucas Taylor,Male,23,Bachelor's,Computer Science,University of California--Berkeley,1,66000.0,3.9,3.0
+Emma Martinez,Female,26,Bachelor's,Electronics and Communication,University of Illinois--Urbana-Champaign,1,65000.0,3.8,3.0
+Aiden Davis,Male,24,Bachelor's,Computer Science,University of Colorado--Boulder,1,66000.0,3.7,2.0
+Mia Wilson,Female,23,Bachelor's,Electrical Engineering,University of North Carolina--Chapel Hill,0,,3.6,1.0
+Jack Garcia,Male,26,Bachelor's,Information Technology,University of Maryland--College Park,1,63000.0,3.7,2.0
+Emma Lopez,Female,24,Bachelor's,Mechanical Engineering,University of Rochester,1,62000.0,3.8,3.0
+Oliver Rodriguez,Male,23,Bachelor's,Computer Science,University of California--Santa Cruz,1,60000.0,3.7,2.0
+Chloe Hernandez,Female,26,Bachelor's,Electrical Engineering,University of Connecticut,1,61000.0,3.5,1.0
+Ava Lee,Female,24,Bachelor's,Information Technology,University of California--Riverside,0,,3.9,2.0
+Liam Perez,Male,25,Bachelor's,Computer Science,University of Delaware,1,65000.0,3.7,1.0
+Isabella Martinez,Female,23,Bachelor's,Electronics and Communication,University of California--San Francisco,1,66000.0,3.8,3.0
+Alexander Lee,Male,26,Bachelor's,Information Technology,University of Texas--Dallas,1,63000.0,3.6,1.0
+Sophia Johnson,Female,24,Bachelor's,Mechanical Engineering,University of Virginia,1,64000.0,3.9,2.0
+Lucas Taylor,Male,23,Bachelor's,Computer Science,University of California--Los Angeles,1,67000.0,3.9,3.0
+Emma Martinez,Female,26,Bachelor's,Electronics and Communication,University of Michigan--Ann Arbor,1,68000.0,3.9,3.0
+Aiden Davis,Male,24,Bachelor's,Computer Science,University of Pennsylvania,0,,3.7,2.0
+Mia Wilson,Female,23,Bachelor's,Electrical Engineering,University of Washington,1,67000.0,3.8,3.0
+Jack Garcia,Male,26,Bachelor's,Information Technology,University of California--Berkeley,1,66000.0,3.9,3.0
+Emma Lopez,Female,24,Bachelor's,Mechanical Engineering,University of Illinois--Urbana-Champaign,1,65000.0,3.8,3.0
+Oliver Rodriguez,Male,23,Bachelor's,Computer Science,University of Colorado--Boulder,1,66000.0,3.7,2.0
+Chloe Hernandez,Female,26,Bachelor's,Electrical Engineering,University of North Carolina--Chapel Hill,0,,3.6,1.0
+Ava Lee,Female,24,Bachelor's,Information Technology,University of Maryland--College Park,1,63000.0,3.7,2.0
+Liam Perez,Male,25,Bachelor's,Computer Science,University of Rochester,1,62000.0,3.8,3.0
+Isabella Martinez,Female,23,Bachelor's,Electronics and Communication,University of California--Santa Cruz,1,60000.0,3.7,2.0
+Alexander Lee,Male,26,Bachelor's,Information Technology,University of Connecticut,1,61000.0,3.5,1.0
+Sophia Johnson,Female,24,Bachelor's,Mechanical Engineering,University of California--Riverside,0,,3.9,2.0
+Lucas Taylor,Male,23,Bachelor's,Computer Science,University of Delaware,1,65000.0,3.7,1.0
+Emma Martinez,Female,26,Bachelor's,Electronics and Communication,University of California--San Francisco,1,66000.0,3.8,3.0
+Aiden Davis,Male,24,Bachelor's,Computer Science,University of Texas--Dallas,1,63000.0,3.6,1.0
+Mia Wilson,Female,23,Bachelor's,Electrical Engineering,University of Virginia,1,64000.0,3.9,2.0
+Jack Garcia,Male,26,Bachelor's,Information Technology,University of Michigan--Ann Arbor,1,67000.0,3.9,3.0
+Emma Lopez,Female,24,Bachelor's,Mechanical Engineering,University of Pennsylvania,0,,3.7,2.0
+Oliver Rodriguez,Male,23,Bachelor's,Computer Science,University of Washington,1,67000.0,3.8,3.0
+Chloe Hernandez,Female,26,Bachelor's,Electrical Engineering,University of California--Los Angeles,1,66000.0,3.9,3.0
+Ava Lee,Female,24,Bachelor's,Information Technology,University of California--Berkeley,1,65000.0,3.9,3.0
+Liam Perez,Male,25,Bachelor's,Computer Science,University of Illinois--Urbana-Champaign,1,65000.0,3.8,3.0
+Isabella Martinez,Female,23,Bachelor's,Electronics and Communication,University of Colorado--Boulder,1,66000.0,3.7,2.0
+Alexander Lee,Male,26,Bachelor's,Information Technology,University of North Carolina--Chapel Hill,0,,3.6,1.0
+Sophia Johnson,Female,24,Bachelor's,Mechanical Engineering,University of Maryland--College Park,1,63000.0,3.7,2.0
+Lucas Taylor,Male,23,Bachelor's,Computer Science,University of Rochester,1,62000.0,3.8,3.0
+Emma Martinez,Female,26,Bachelor's,Electronics and Communication,University of California--Santa Cruz,1,60000.0,3.7,2.0
+Aiden Davis,Male,24,Bachelor's,Computer Science,University of Connecticut,1,61000.0,3.5,1.0
+Mia Wilson,Female,23,Bachelor's,Electrical Engineering,University of California--Riverside,0,,3.9,2.0
+Jack Garcia,Male,26,Bachelor's,Information Technology,University of Delaware,1,65000.0,3.7,1.0
+Emma Lopez,Female,24,Bachelor's,Mechanical Engineering,University of California--San Francisco,1,66000.0,3.8,3.0
+Oliver Rodriguez,Male,23,Bachelor's,Computer Science,University of Texas--Dallas,1,63000.0,3.6,1.0
+Chloe Hernandez,Female,26,Bachelor's,Electrical Engineering,University of Virginia,1,64000.0,3.9,2.0
+Ava Lee,Female,24,Bachelor's,Information Technology,University of Michigan--Ann Arbor,1,67000.0,3.9,3.0
+Liam Perez,Male,25,Bachelor's,Computer Science,University of Pennsylvania,0,,3.7,2.0
+Isabella Martinez,Female,23,Bachelor's,Electronics and Communication,University of Washington,1,67000.0,3.8,3.0
+Alexander Lee,Male,26,Bachelor's,Information Technology,University of California--Berkeley,1,66000.0,3.9,3.0
+Sophia Johnson,Female,24,Bachelor's,Mechanical Engineering,University of Illinois--Urbana-Champaign,1,65000.0,3.8,3.0
+Lucas Taylor,Male,23,Bachelor's,Computer Science,University of Colorado--Boulder,1,66000.0,3.7,2.0
+Emma Martinez,Female,26,Bachelor's,Electronics and Communication,University of North Carolina--Chapel Hill,0,,3.6,1.0
+Aiden Davis,Male,24,Bachelor's,Computer Science,University of Maryland--College Park,1,63000.0,3.7,2.0
+Mia Wilson,Female,23,Bachelor's,Electrical Engineering,University of Rochester,1,62000.0,3.8,3.0
+Jack Garcia,Male,26,Bachelor's,Information Technology,University of California--Santa Cruz,1,60000.0,3.7,2.0
+Emma Lopez,Female,24,Bachelor's,Mechanical Engineering,University of Connecticut,1,61000.0,3.5,1.0
+Oliver Rodriguez,Male,23,Bachelor's,Computer Science,University of California--Riverside,0,,3.9,2.0
+Chloe Hernandez,Female,26,Bachelor's,Electrical Engineering,University of Delaware,1,65000.0,3.7,1.0
+Ava Lee,Female,24,Bachelor's,Information Technology,University of California--San Francisco,1,66000.0,3.8,3.0
+Liam Perez,Male,25,Bachelor's,Computer Science,University of Texas--Dallas,1,63000.0,3.6,1.0
+Isabella Martinez,Female,23,Bachelor's,Electronics and Communication,University of Virginia,1,64000.0,3.9,2.0
+Alexander Lee,Male,26,Bachelor's,Information Technology,University of Michigan--Ann Arbor,1,67000.0,3.9,3.0
+Sophia Johnson,Female,24,Bachelor's,Mechanical Engineering,University of Pennsylvania,0,,3.7,2.0
+Lucas Taylor,Male,23,Bachelor's,Computer Science,University of Washington,1,67000.0,3.8,3.0
+Emma Martinez,Female,26,Bachelor's,Electronics and Communication,University of California--Berkeley,1,66000.0,3.9,3.0
+Aiden Davis,Male,24,Bachelor's,Computer Science,University of Illinois--Urbana-Champaign,1,65000.0,3.8,3.0
+Mia Wilson,Female,23,Bachelor's,Electrical Engineering,University of Colorado--Boulder,1,66000.0,3.7,2.0
+Jack Garcia,Male,26,Bachelor's,Information Technology,University of North Carolina--Chapel Hill,0,,3.6,1.0
+Emma Lopez,Female,24,Bachelor's,Mechanical Engineering,University of Maryland--College Park,1,63000.0,3.7,2.0
+Oliver Rodriguez,Male,23,Bachelor's,Computer Science,University of Rochester,1,62000.0,3.8,3.0
+Chloe Hernandez,Female,26,Bachelor's,Electrical Engineering,University of California--Santa Cruz,1,60000.0,3.7,2.0
+Ava Lee,Female,24,Bachelor's,Information Technology,University of Connecticut,1,61000.0,3.5,1.0
+Liam Perez,Male,25,Bachelor's,Computer Science,University of California--Riverside,0,,3.9,2.0
+Isabella Martinez,Female,23,Bachelor's,Electronics and Communication,University of Delaware,1,65000.0,3.7,1.0
+Alexander Lee,Male,26,Bachelor's,Information Technology,University of California--San Francisco,1,66000.0,3.8,3.0
+Sophia Johnson,Female,24,Bachelor's,Mechanical Engineering,University of Texas--Dallas,1,63000.0,3.6,1.0
+Lucas Taylor,Male,23,Bachelor's,Computer Science,University of Michigan--Ann Arbor,1,64000.0,3.9,2.0
+Emma Martinez,Female,26,Bachelor's,Electronics and Communication,University of Virginia,1,67000.0,3.9,3.0
+Aiden Davis,Male,24,Bachelor's,Computer Science,University of California--Los Angeles,1,67000.0,3.8,3.0
+Mia Wilson,Female,23,Bachelor's,Electrical Engineering,University of California--Berkeley,1,66000.0,3.7,2.0
+Jack Garcia,Male,26,Bachelor's,Information Technology,University of Illinois--Urbana-Champaign,1,65000.0,3.8,3.0
+Emma Lopez,Female,24,Bachelor's,Mechanical Engineering,University of Colorado--Boulder,1,66000.0,3.7,2.0
+Oliver Rodriguez,Male,23,Bachelor's,Computer Science,University of North Carolina--Chapel Hill,0,,3.6,1.0
+Chloe Hernandez,Female,26,Bachelor's,Electrical Engineering,University of Maryland--College Park,1,63000.0,3.7,2.0
+Ava Lee,Female,24,Bachelor's,Information Technology,University of Rochester,1,62000.0,3.8,3.0
+Liam Perez,Male,25,Bachelor's,Computer Science,University of California--Santa Cruz,1,60000.0,3.7,2.0
+Isabella Martinez,Female,23,Bachelor's,Electronics and Communication,University of Connecticut,1,61000.0,3.5,1.0
+Alexander Lee,Male,26,Bachelor's,Information Technology,University of California--Riverside,0,,3.9,2.0
+Sophia Johnson,Female,24,Bachelor's,Mechanical Engineering,University of Delaware,1,65000.0,3.7,1.0
+Lucas Taylor,Male,23,Bachelor's,Computer Science,University of California--San Francisco,1,66000.0,3.8,3.0
+Emma Martinez,Female,26,Bachelor's,Electronics and Communication,University of Texas--Dallas,1,63000.0,3.6,1.0
+Aiden Davis,Male,24,Bachelor's,Computer Science,University of Virginia,1,64000.0,3.9,2.0
+Mia Wilson,Female,23,Bachelor's,Electrical Engineering,University of Michigan--Ann Arbor,1,67000.0,3.9,3.0
+Jack Garcia,Male,26,Bachelor's,Information Technology,University of Pennsylvania,0,,3.7,2.0
+Emma Lopez,Female,24,Bachelor's,Mechanical Engineering,University of Washington,1,67000.0,3.8,3.0
+Oliver Rodriguez,Male,23,Bachelor's,Computer Science,University of California--Berkeley,1,66000.0,3.9,3.0
+Chloe Hernandez,Female,26,Bachelor's,Electrical Engineering,University of Illinois--Urbana-Champaign,1,65000.0,3.8,3.0
+Ava Lee,Female,24,Bachelor's,Information Technology,University of Colorado--Boulder,1,66000.0,3.7,2.0
+Liam Perez,Male,25,Bachelor's,Computer Science,University of North Carolina--Chapel Hill,0,,3.6,1.0
+Isabella Martinez,Female,23,Bachelor's,Electronics and Communication,University of Maryland--College Park,1,63000.0,3.7,2.0
+Alexander Lee,Male,26,Bachelor's,Information Technology,University of Rochester,1,62000.0,3.8,3.0
+Sophia Johnson,Female,24,Bachelor's,Mechanical Engineering,University of California--Santa Cruz,1,60000.0,3.7,2.0
+Lucas Taylor,Male,23,Bachelor's,Computer Science,University of Connecticut,1,61000.0,3.5,1.0
+Emma Martinez,Female,26,Bachelor's,Electrical Engineering,University of California--Riverside,0,,3.9,2.0
+Aiden Davis,Male,24,Bachelor's,Computer Science,University of Delaware,1,65000.0,3.7,1.0
+Mia Wilson,Female,23,Bachelor's,Electronics and Communication,University of California--San Francisco,1,66000.0,3.8,3.0
+Jack Garcia,Male,26,Bachelor's,Information Technology,University of Texas--Dallas,1,63000.0,3.6,1.0
+Emma Lopez,Female,24,Bachelor's,Mechanical Engineering,University of Virginia,1,64000.0,3.9,2.0
+Oliver Rodriguez,Male,23,Bachelor's,Computer Science,University of Michigan--Ann Arbor,1,67000.0,3.9,3.0
+Chloe Hernandez,Female,26,Bachelor's,Electrical Engineering,University of Pennsylvania,0,,3.7,2.0
+Ava Lee,Female,24,Bachelor's,Information Technology,University of Washington,1,67000.0,3.8,3.0
+Liam Perez,Male,25,Bachelor's,Computer Science,University of California--Berkeley,1,66000.0,3.9,3.0
+Isabella Martinez,Female,23,Bachelor's,Electronics and Communication,University of Illinois--Urbana-Champaign,1,65000.0,3.8,3.0
+Alexander Lee,Male,26,Bachelor's,Information Technology,University of Colorado--Boulder,1,66000.0,3.7,2.0
+Sophia Johnson,Female,24,Bachelor's,Mechanical Engineering,University of North Carolina--Chapel Hill,0,,3.6,1.0
+Lucas Taylor,Male,23,Bachelor's,Computer Science,University of Maryland--College Park,1,63000.0,3.7,2.0
+Emma Martinez,Female,26,Bachelor's,Electronics and Communication,University of Rochester,1,62000.0,3.8,3.0
+Aiden Davis,Male,24,Bachelor's,Computer Science,University of California--Santa Cruz,1,60000.0,3.7,2.0
+Mia Wilson,Female,23,Bachelor's,Electrical Engineering,University of Connecticut,1,61000.0,3.5,1.0
+Jack Garcia,Male,26,Bachelor's,Information Technology,University of California--Riverside,0,,3.9,2.0
+Emma Lopez,Female,24,Bachelor's,Mechanical Engineering,University of Delaware,1,65000.0,3.7,1.0
+Oliver Rodriguez,Male,23,Bachelor's,Computer Science,University of California--San Francisco,1,66000.0,3.8,3.0
+Chloe Hernandez,Female,26,Bachelor's,Electrical Engineering,University of Texas--Dallas,1,63000.0,3.6,1.0
+Ava Lee,Female,24,Bachelor's,Information Technology,University of Virginia,1,64000.0,3.9,2.0
+Liam Perez,Male,25,Bachelor's,Computer Science,University of Michigan--Ann Arbor,1,67000.0,3.9,3.0
+Isabella Martinez,Female,23,Bachelor's,Electronics and Communication,University of Pennsylvania,0,,3.7,2.0
+Alexander Lee,Male,26,Bachelor's,Information Technology,University of Washington,1,67000.0,3.8,3.0
+Sophia Johnson,Female,24,Bachelor's,Mechanical Engineering,University of California--Berkeley,1,66000.0,3.9,3.0
+Lucas Taylor,Male,23,Bachelor's,Computer Science,University of Illinois--Urbana-Champaign,1,65000.0,3.8,3.0
+Emma Martinez,Female,26,Bachelor's,Electronics and Communication,University of Colorado--Boulder,1,66000.0,3.7,2.0
+Aiden Davis,Male,24,Bachelor's,Computer Science,University of North Carolina--Chapel Hill,0,,3.6,1.0
+Mia Wilson,Female,23,Bachelor's,Electrical Engineering,University of Maryland--College Park,1,63000.0,3.7,2.0
+Jack Garcia,Male,26,Bachelor's,Information Technology,University of Rochester,1,62000.0,3.8,3.0
+Emma Lopez,Female,24,Bachelor's,Mechanical Engineering,University of California--Santa Cruz,1,60000.0,3.7,2.0
+Oliver Rodriguez,Male,23,Bachelor's,Computer Science,University of Connecticut,1,61000.0,3.5,1.0
+Chloe Hernandez,Female,26,Bachelor's,Electrical Engineering,University of California--Riverside,0,,3.9,2.0
+Ava Lee,Female,24,Bachelor's,Information Technology,University of Delaware,1,65000.0,3.7,1.0
+Liam Perez,Male,25,Bachelor's,Computer Science,University of California--San Francisco,1,66000.0,3.8,3.0
+Isabella Martinez,Female,23,Bachelor's,Electronics and Communication,University of Texas--Dallas,1,63000.0,3.6,1.0
+Alexander Lee,Male,26,Bachelor's,Information Technology,University of Virginia,1,64000.0,3.9,2.0
+Sophia Johnson,Female,24,Bachelor's,Mechanical Engineering,University of Michigan--Ann Arbor,1,67000.0,3.9,3.0
+Lucas Taylor,Male,23,Bachelor's,Computer Science,University of Pennsylvania,0,,3.7,2.0
+Emma Martinez,Female,26,Bachelor's,Electronics and Communication,University of Washington,1,67000.0,3.8,3.0
+Aiden Davis,Male,24,Bachelor's,Computer Science,University of California--Berkeley,1,66000.0,3.9,3.0
+Mia Wilson,Female,23,Bachelor's,Electrical Engineering,University of Illinois--Urbana-Champaign,1,65000.0,3.8,3.0
+Jack Garcia,Male,26,Bachelor's,Information Technology,University of Colorado--Boulder,1,66000.0,3.7,2.0
+Emma Lopez,Female,24,Bachelor's,Mechanical Engineering,University of North Carolina--Chapel Hill,0,,3.6,1.0
+Oliver Rodriguez,Male,23,Bachelor's,Computer Science,University of Maryland--College Park,1,63000.0,3.7,2.0
+Chloe Hernandez,Female,26,Bachelor's,Electrical Engineering,University of Rochester,1,62000.0,3.8,3.0
+Ava Lee,Female,24,Bachelor's,Information Technology,University of California--Santa Cruz,1,60000.0,3.7,2.0
+Liam Perez,Male,25,Bachelor's,Computer Science,University of Connecticut,1,61000.0,3.5,1.0
+Isabella Martinez,Female,23,Bachelor's,Electronics and Communication,University of California--Riverside,0,,3.9,2.0
+Alexander Lee,Male,26,Bachelor's,Information Technology,University of Delaware,1,65000.0,3.7,1.0
+Sophia Johnson,Female,24,Bachelor's,Mechanical Engineering,University of California--San Francisco,1,66000.0,3.8,3.0
+Lucas Taylor,Male,23,Bachelor's,Computer Science,University of Texas--Dallas,1,63000.0,3.6,1.0
+Emma Martinez,Female,26,Bachelor's,Electronics and Communication,University of Virginia,1,64000.0,3.9,2.0
+Aiden Davis,Male,24,Bachelor's,Computer Science,University of Michigan--Ann Arbor,1,67000.0,3.9,3.0
+Mia Wilson,Female,23,Bachelor's,Electrical Engineering,University of Pennsylvania,0,,3.7,2.0
+Jack Garcia,Male,26,Bachelor's,Information Technology,University of Washington,1,67000.0,3.8,3.0
+Emma Lopez,Female,24,Bachelor's,Mechanical Engineering,University of California--Berkeley,1,66000.0,3.9,3.0
+Oliver Rodriguez,Male,23,Bachelor's,Computer Science,University of Illinois--Urbana-Champaign,1,65000.0,3.8,3.0
+Chloe Hernandez,Female,26,Bachelor's,Electrical Engineering,University of Colorado--Boulder,1,66000.0,3.7,2.0
+Ava Lee,Female,24,Bachelor's,Information Technology,University of North Carolina--Chapel Hill,0,,3.6,1.0
+Liam Perez,Male,25,Bachelor's,Computer Science,University of Maryland--College Park,1,63000.0,3.7,2.0
+Isabella Martinez,Female,23,Bachelor's,Electronics and Communication,University of Rochester,1,62000.0,3.8,3.0
+Alexander Lee,Male,26,Bachelor's,Information Technology,University of California--Santa Cruz,1,60000.0,3.7,2.0
+Sophia Johnson,Female,24,Bachelor's,Mechanical Engineering,University of Connecticut,1,61000.0,3.5,1.0
+Lucas Taylor,Male,23,Bachelor's,Computer Science,University of California--Riverside,0,,3.9,2.0
+Emma Martinez,Female,26,Bachelor's,Electronics and Communication,University of Delaware,1,65000.0,3.7,1.0
+Aiden Davis,Male,24,Bachelor's,Computer Science,University of California--San Francisco,1,66000.0,3.8,3.0
+Mia Wilson,Female,23,Bachelor's,Electrical Engineering,University of Texas--Dallas,1,63000.0,3.6,1.0
+Jack Garcia,Male,26,Bachelor's,Information Technology,University of Virginia,1,64000.0,3.9,2.0
+Emma Lopez,Female,24,Bachelor's,Mechanical Engineering,University of Michigan--Ann Arbor,1,67000.0,3.9,3.0
+Oliver Rodriguez,Male,23,Bachelor's,Computer Science,University of Pennsylvania,0,,3.7,2.0
+Chloe Hernandez,Female,26,Bachelor's,Electrical Engineering,University of Washington,1,67000.0,3.8,3.0
+Ava Lee,Female,24,Bachelor's,Information Technology,University of California--Berkeley,1,66000.0,3.9,3.0
+Liam Perez,Male,25,Bachelor's,Computer Science,University of Illinois--Urbana-Champaign,1,65000.0,3.8,3.0
+Isabella Martinez,Female,23,Bachelor's,Electronics and Communication,University of Colorado--Boulder,1,66000.0,3.7,2.0
+Alexander Lee,Male,26,Bachelor's,Information Technology,University of North Carolina--Chapel Hill,0,,3.6,1.0
+Sophia Johnson,Female,24,Bachelor's,Mechanical Engineering,University of Maryland--College Park,1,63000.0,3.7,2.0
+Lucas Taylor,Male,23,Bachelor's,Computer Science,University of Rochester,1,62000.0,3.8,3.0
+Emma Martinez,Female,26,Bachelor's,Electronics and Communication,University of California--Santa Cruz,1,60000.0,3.7,2.0
+Aiden Davis,Male,24,Bachelor's,Computer Science,University of Connecticut,1,61000.0,3.5,1.0
+Mia Wilson,Female,23,Bachelor's,Electrical Engineering,University of California--Riverside,0,,3.9,2.0
+Jack Garcia,Male,26,Bachelor's,Information Technology,University of Delaware,1,65000.0,3.7,1.0
+Emma Lopez,Female,24,Bachelor's,Mechanical Engineering,University of California--San Francisco,1,66000.0,3.8,3.0
+Oliver Rodriguez,Male,23,Bachelor's,Computer Science,University of Texas--Dallas,1,63000.0,3.6,1.0
+Chloe Hernandez,Female,26,Bachelor's,Electrical Engineering,University of Virginia,1,64000.0,3.9,2.0
+Ava Lee,Female,24,Bachelor's,Information Technology,University of Michigan--Ann Arbor,1,67000.0,3.9,3.0
+Liam Perez,Male,25,Bachelor's,Computer Science,University of Pennsylvania,0,,3.7,2.0
+Isabella Martinez,Female,23,Bachelor's,Electronics and Communication,University of Washington,1,67000.0,3.8,3.0
+Alexander Lee,Male,26,Bachelor's,Information Technology,University of California--Berkeley,1,66000.0,3.9,3.0
+Sophia Johnson,Female,24,Bachelor's,Mechanical Engineering,University of Illinois--Urbana-Champaign,1,65000.0,3.8,3.0
+Lucas Taylor,Male,23,Bachelor's,Computer Science,University of Colorado--Boulder,1,66000.0,3.7,2.0
+Emma Martinez,Female,26,Bachelor's,Electronics and Communication,University of North Carolina--Chapel Hill,0,,3.6,1.0
+Aiden Davis,Male,24,Bachelor's,Computer Science,University of Maryland--College Park,1,63000.0,3.7,2.0
+Mia Wilson,Female,23,Bachelor's,Electrical Engineering,University of Rochester,1,62000.0,3.8,3.0
+Jack Garcia,Male,26,Bachelor's,Information Technology,University of California--Santa Cruz,1,60000.0,3.7,2.0
+Emma Lopez,Female,24,Bachelor's,Mechanical Engineering,University of Connecticut,1,61000.0,3.5,1.0
+Oliver Rodriguez,Male,23,Bachelor's,Computer Science,University of California--Riverside,0,,3.9,2.0
+Chloe Hernandez,Female,26,Bachelor's,Electrical Engineering,University of Delaware,1,65000.0,3.7,1.0
+Ava Lee,Female,24,Bachelor's,Information Technology,University of California--San Francisco,1,66000.0,3.8,3.0
+Liam Perez,Male,25,Bachelor's,Computer Science,University of Texas--Dallas,1,63000.0,3.6,1.0
+Isabella Martinez,Female,23,Bachelor's,Electronics and Communication,University of Virginia,1,64000.0,3.9,2.0
+Alexander Lee,Male,26,Bachelor's,Information Technology,University of Michigan--Ann Arbor,1,67000.0,3.9,3.0
+Sophia Johnson,Female,24,Bachelor's,Mechanical Engineering,University of Pennsylvania,0,,3.7,2.0
+Lucas Taylor,Male,23,Bachelor's,Computer Science,University of Washington,1,67000.0,3.8,3.0
+Emma Martinez,Female,26,Bachelor's,Electronics and Communication,University of California--Berkeley,1,66000.0,3.9,3.0
+Aiden Davis,Male,24,Bachelor's,Computer Science,University of Illinois--Urbana-Champaign,1,65000.0,3.8,3.0
+Mia Wilson,Female,23,Bachelor's,Electrical Engineering,University of Colorado--Boulder,1,66000.0,3.7,2.0
+Jack Garcia,Male,26,Bachelor's,Information Technology,University of North Carolina--Chapel Hill,0,,3.6,1.0
+Emma Lopez,Female,24,Bachelor's,Mechanical Engineering,University of Maryland--College Park,1,63000.0,3.7,2.0
+Oliver Rodriguez,Male,23,Bachelor's,Computer Science,University of Rochester,1,62000.0,3.8,3.0
+Chloe Hernandez,Female,26,Bachelor's,Electrical Engineering,University of California--Santa Cruz,1,60000.0,3.7,2.0
+Ava Lee,Female,24,Bachelor's,Information Technology,University of Connecticut,1,61000.0,3.5,1.0
+Liam Perez,Male,25,Bachelor's,Computer Science,University of California--Riverside,0,,3.9,2.0
+Isabella Martinez,Female,23,Bachelor's,Electronics and Communication,University of Delaware,1,65000.0,3.7,1.0
+Alexander Lee,Male,26,Bachelor's,Information Technology,University of California--San Francisco,1,66000.0,3.8,3.0
+Sophia Johnson,Female,24,Bachelor's,Mechanical Engineering,University of Texas--Dallas,1,63000.0,3.6,1.0
+Lucas Taylor,Male,23,Bachelor's,Computer Science,University of Michigan--Ann Arbor,1,64000.0,3.9,2.0
+Emma Martinez,Female,26,Bachelor's,Electronics and Communication,University of Virginia,1,67000.0,3.9,3.0
+Aiden Davis,Male,24,Bachelor's,Computer Science,University of California--Los Angeles,1,67000.0,3.8,3.0
+Mia Wilson,Female,23,Bachelor's,Electrical Engineering,University of California--Berkeley,1,66000.0,3.7,2.0
+Jack Garcia,Male,26,Bachelor's,Information Technology,University of Illinois--Urbana-Champaign,1,65000.0,3.8,3.0
+Emma Lopez,Female,24,Bachelor's,Mechanical Engineering,University of Colorado--Boulder,1,66000.0,3.7,2.0
+Oliver Rodriguez,Male,23,Bachelor's,Computer Science,University of North Carolina--Chapel Hill,0,,3.6,1.0
+Chloe Hernandez,Female,26,Bachelor's,Electrical Engineering,University of Maryland--College Park,1,63000.0,3.7,2.0
+Ava Lee,Female,24,Bachelor's,Information Technology,University of Rochester,1,62000.0,3.8,3.0
+Liam Perez,Male,25,Bachelor's,Computer Science,University of California--Santa Cruz,1,60000.0,3.7,2.0
+Isabella Martinez,Female,23,Bachelor's,Electronics and Communication,University of Connecticut,1,61000.0,3.5,1.0
+Alexander Lee,Male,26,Bachelor's,Information Technology,University of California--Riverside,0,,3.9,2.0
+Sophia Johnson,Female,24,Bachelor's,Mechanical Engineering,University of Delaware,1,65000.0,3.7,1.0
+Lucas Taylor,Male,23,Bachelor's,Computer Science,University of California--San Francisco,1,66000.0,3.8,3.0
+Emma Martinez,Female,26,Bachelor's,Electronics and Communication,University of Texas--Dallas,1,63000.0,3.6,1.0
+Aiden Davis,Male,24,Bachelor's,Computer Science,University of Virginia,1,64000.0,3.9,2.0
+Mia Wilson,Female,23,Bachelor's,Electrical Engineering,University of Michigan--Ann Arbor,1,67000.0,3.9,3.0
+Jack Garcia,Male,26,Bachelor's,Information Technology,University of Pennsylvania,0,,3.7,2.0
+Emma Lopez,Female,24,Bachelor's,Mechanical Engineering,University of Washington,1,67000.0,3.8,3.0
+Oliver Rodriguez,Male,23,Bachelor's,Computer Science,University of California--Berkeley,1,66000.0,3.9,3.0
+Chloe Hernandez,Female,26,Bachelor's,Electrical Engineering,University of Illinois--Urbana-Champaign,1,65000.0,3.8,3.0
+Ava Lee,Female,24,Bachelor's,Information Technology,University of Colorado--Boulder,1,66000.0,3.7,2.0
+Liam Perez,Male,25,Bachelor's,Computer Science,University of North Carolina--Chapel Hill,0,,3.6,1.0
+Isabella Martinez,Female,23,Bachelor's,Electronics and Communication,University of Maryland--College Park,1,63000.0,3.7,2.0
+Alexander Lee,Male,26,Bachelor's,Information Technology,University of Rochester,1,62000.0,3.8,3.0
+Sophia Johnson,Female,24,Bachelor's,Mechanical Engineering,University of California--Santa Cruz,1,60000.0,3.7,2.0
+Lucas Taylor,Male,23,Bachelor's,Computer Science,University of California--Riverside,0,,3.9,2.0
+Emma Martinez,Female,26,Bachelor's,Electronics and Communication,University of Delaware,1,65000.0,3.7,1.0
+Aiden Davis,Male,24,Bachelor's,Computer Science,University of California--San Francisco,1,66000.0,3.8,3.0
+Mia Wilson,Female,23,Bachelor's,Electrical Engineering,University of Texas--Dallas,1,63000.0,3.6,1.0
+Jack Garcia,Male,26,Bachelor's,Information Technology,University of Virginia,1,64000.0,3.9,2.0
+Emma Lopez,Female,24,Bachelor's,Mechanical Engineering,University of Michigan--Ann Arbor,1,67000.0,3.9,3.0
+Oliver Rodriguez,Male,23,Bachelor's,Computer Science,University of Pennsylvania,0,,3.7,2.0
+Chloe Hernandez,Female,26,Bachelor's,Electrical Engineering,University of Washington,1,67000.0,3.8,3.0
+Ava Lee,Female,24,Bachelor's,Information Technology,University of California--Berkeley,1,66000.0,3.9,3.0
+Liam Perez,Male,25,Bachelor's,Computer Science,University of Illinois--Urbana-Champaign,1,65000.0,3.8,3.0
+Isabella Martinez,Female,23,Bachelor's,Electronics and Communication,University of Colorado--Boulder,1,66000.0,3.7,2.0
+Alexander Lee,Male,26,Bachelor's,Information Technology,University of North Carolina--Chapel Hill,0,,3.6,1.0
+Sophia Johnson,Female,24,Bachelor's,Mechanical Engineering,University of Maryland--College Park,1,63000.0,3.7,2.0
+Lucas Taylor,Male,23,Bachelor's,Computer Science,University of Rochester,1,62000.0,3.8,3.0
+Emma Martinez,Female,26,Bachelor's,Electronics and Communication,University of California--Santa Cruz,1,60000.0,3.7,2.0
+Aiden Davis,Male,24,Bachelor's,Computer Science,University of Connecticut,1,61000.0,3.5,1.0
+Mia Wilson,Female,23,Bachelor's,Electrical Engineering,University of California--Riverside,0,,3.9,2.0
+Jack Garcia,Male,26,Bachelor's,Information Technology,University of Delaware,1,65000.0,3.7,1.0
+Emma Lopez,Female,24,Bachelor's,Mechanical Engineering,University of California--San Francisco,1,66000.0,3.8,3.0
+Oliver Rodriguez,Male,23,Bachelor's,Computer Science,University of Texas--Dallas,1,63000.0,3.6,1.0
+Chloe Hernandez,Female,26,Bachelor's,Electrical Engineering,University of Virginia,1,64000.0,3.9,2.0
+Ava Lee,Female,24,Bachelor's,Information Technology,University of Michigan--Ann Arbor,1,67000.0,3.9,3.0
+Liam Perez,Male,25,Bachelor's,Computer Science,University of Pennsylvania,0,,3.7,2.0
+Isabella Martinez,Female,23,Bachelor's,Electronics and Communication,University of Washington,1,67000.0,3.8,3.0
+Alexander Lee,Male,26,Bachelor's,Information Technology,University of California--Berkeley,1,66000.0,3.9,3.0
+Sophia Johnson,Female,24,Bachelor's,Mechanical Engineering,University of Illinois--Urbana-Champaign,1,65000.0,3.8,3.0
+Lucas Taylor,Male,23,Bachelor's,Computer Science,University of Colorado--Boulder,1,66000.0,3.7,2.0
+Emma Martinez,Female,26,Bachelor's,Electronics and Communication,University of North Carolina--Chapel Hill,0,,3.6,1.0
+Aiden Davis,Male,24,Bachelor's,Computer Science,University of Maryland--College Park,1,63000.0,3.7,2.0
+Mia Wilson,Female,23,Bachelor's,Electrical Engineering,University of Rochester,1,62000.0,3.8,3.0
+Jack Garcia,Male,26,Bachelor's,Information Technology,University of California--Santa Cruz,1,60000.0,3.7,2.0
+Emma Lopez,Female,24,Bachelor's,Mechanical Engineering,University of Connecticut,1,61000.0,3.5,1.0
+Oliver Rodriguez,Male,23,Bachelor's,Computer Science,University of California--Riverside,0,,3.9,2.0
+Chloe Hernandez,Female,26,Bachelor's,Electrical Engineering,University of Delaware,1,65000.0,3.7,1.0
+Ava Lee,Female,24,Bachelor's,Information Technology,University of California--San Francisco,1,66000.0,3.8,3.0
+Liam Perez,Male,25,Bachelor's,Computer Science,University of Texas--Dallas,1,63000.0,3.6,1.0
+Isabella Martinez,Female,23,Bachelor's,Electronics and Communication,University of Virginia,1,64000.0,3.9,2.0
+Alexander Lee,Male,26,Bachelor's,Information Technology,University of Michigan--Ann Arbor,1,67000.0,3.9,3.0
+Sophia Johnson,Female,24,Bachelor's,Mechanical Engineering,University of Pennsylvania,0,,3.7,2.0
+Lucas Taylor,Male,23,Bachelor's,Computer Science,University of Washington,1,67000.0,3.8,3.0
+Emma Martinez,Female,26,Bachelor's,Electronics and Communication,University of California--Berkeley,1,66000.0,3.9,3.0
+Aiden Davis,Male,24,Bachelor's,Computer Science,University of Illinois--Urbana-Champaign,1,65000.0,3.8,3.0
+Mia Wilson,Female,23,Bachelor's,Electrical Engineering,University of Colorado--Boulder,1,66000.0,3.7,2.0
+Jack Garcia,Male,26,Bachelor's,Information Technology,University of North Carolina--Chapel Hill,0,,3.6,1.0
+Emma Lopez,Female,24,Bachelor's,Mechanical Engineering,University of Maryland--College Park,1,63000.0,3.7,2.0
+Oliver Rodriguez,Male,23,Bachelor's,Computer Science,University of Rochester,1,62000.0,3.8,3.0
+Chloe Hernandez,Female,26,Bachelor's,Electrical Engineering,University of California--Santa Cruz,1,60000.0,3.7,2.0
+Ava Lee,Female,24,Bachelor's,Information Technology,University of Connecticut,1,61000.0,3.5,1.0
+Liam Perez,Male,25,Bachelor's,Computer Science,University of California--Riverside,0,,3.9,2.0
+Isabella Martinez,Female,23,Bachelor's,Electronics and Communication,University of Delaware,1,65000.0,3.7,1.0
+Alexander Lee,Male,26,Bachelor's,Information Technology,University of California--San Francisco,1,66000.0,3.8,3.0
+Sophia Johnson,Female,24,Bachelor's,Mechanical Engineering,University of Texas--Dallas,1,63000.0,3.6,1.0
+Lucas Taylor,Male,23,Bachelor's,Computer Science,University of Michigan--Ann Arbor,1,64000.0,3.9,2.0
+Emma Martinez,Female,26,Bachelor's,Electronics and Communication,University of Virginia,1,67000.0,3.9,3.0
+Aiden Davis,Male,24,Bachelor's,Computer Science,University of California--Los Angeles,1,67000.0,3.8,3.0
+Mia Wilson,Female,23,Bachelor's,Electrical Engineering,University of California--Berkeley,1,66000.0,3.7,2.0
+Jack Garcia,Male,26,Bachelor's,Information Technology,University of Illinois--Urbana-Champaign,1,65000.0,3.8,3.0
+Emma Lopez,Female,24,Bachelor's,Mechanical Engineering,University of Colorado--Boulder,1,66000.0,3.7,2.0
+Oliver Rodriguez,Male,23,Bachelor's,Computer Science,University of North Carolina--Chapel Hill,0,,3.6,1.0
+Chloe Hernandez,Female,26,Bachelor's,Electrical Engineering,University of Maryland--College Park,1,63000.0,3.7,2.0
+Ava Lee,Female,24,Bachelor's,Information Technology,University of Rochester,1,62000.0,3.8,3.0
+Liam Perez,Male,25,Bachelor's,Computer Science,University of California--Santa Cruz,1,60000.0,3.7,2.0
+Isabella Martinez,Female,23,Bachelor's,Electronics and Communication,University of Connecticut,1,61000.0,3.5,1.0
+Alexander Lee,Male,26,Bachelor's,Information Technology,University of California--Riverside,0,,3.9,2.0
+Sophia Johnson,Female,24,Bachelor's,Mechanical Engineering,University of Delaware,1,65000.0,3.7,1.0
+Lucas Taylor,Male,23,Bachelor's,Computer Science,University of California--San Francisco,1,66000.0,3.8,3.0
+Emma Martinez,Female,26,Bachelor's,Electronics and Communication,University of Texas--Dallas,1,63000.0,3.6,1.0
+Aiden Davis,Male,24,Bachelor's,Computer Science,University of Virginia,1,64000.0,3.9,2.0
+Mia Wilson,Female,23,Bachelor's,Electrical Engineering,University of Michigan--Ann Arbor,1,67000.0,3.9,3.0
+Jack Garcia,Male,26,Bachelor's,Information Technology,University of Pennsylvania,0,,3.7,2.0
+Emma Lopez,Female,24,Bachelor's,Mechanical Engineering,University of Washington,1,67000.0,3.8,3.0
+Oliver Rodriguez,Male,23,Bachelor's,Computer Science,University of California--Berkeley,1,66000.0,3.9,3.0
+Chloe Hernandez,Female,26,Bachelor's,Electrical Engineering,University of Illinois--Urbana-Champaign,1,65000.0,3.8,3.0
+Emma Martinez,Female,26,Bachelor's,Electronics and Communication,University of Colorado--Boulder,1,66000.0,3.7,2.0
+Aiden Davis,Male,24,Bachelor's,Computer Science,University of North Carolina--Chapel Hill,0,,3.6,1.0
+Mia Wilson,Female,23,Bachelor's,Electrical Engineering,University of Maryland--College Park,1,63000.0,3.7,2.0
+Jack Garcia,Male,26,Bachelor's,Information Technology,University of Rochester,1,62000.0,3.8,3.0
+Emma Lopez,Female,24,Bachelor's,Mechanical Engineering,University of California--Santa Cruz,1,60000.0,3.7,2.0
+Oliver Rodriguez,Male,23,Bachelor's,Computer Science,University of Connecticut,1,61000.0,3.5,1.0
+Chloe Hernandez,Female,26,Bachelor's,Electrical Engineering,University of California--Riverside,0,,3.9,2.0
+Ava Lee,Female,24,Bachelor's,Information Technology,University of Delaware,1,65000.0,3.7,1.0
+Liam Perez,Male,25,Bachelor's,Computer Science,University of California--San Francisco,1,66000.0,3.8,3.0
+Isabella Martinez,Female,23,Bachelor's,Electronics and Communication,University of Texas--Dallas,1,63000.0,3.6,1.0
+Alexander Lee,Male,26,Bachelor's,Information Technology,University of Virginia,1,64000.0,3.9,2.0
+Sophia Johnson,Female,24,Bachelor's,Mechanical Engineering,University of Michigan--Ann Arbor,1,67000.0,3.9,3.0
+Lucas Taylor,Male,23,Bachelor's,Computer Science,University of Pennsylvania,0,,3.7,2.0
+Emma Martinez,Female,26,Bachelor's,Electronics and Communication,University of Washington,1,67000.0,3.8,3.0
+Aiden Davis,Male,24,Bachelor's,Computer Science,University of California--Berkeley,1,66000.0,3.9,3.0
+Mia Wilson,Female,23,Bachelor's,Electrical Engineering,University of Illinois--Urbana-Champaign,1,65000.0,3.8,3.0
+Jack Garcia,Male,26,Bachelor's,Information Technology,University of Colorado--Boulder,1,66000.0,3.7,2.0
+Emma Lopez,Female,24,Bachelor's,Mechanical Engineering,University of North Carolina--Chapel Hill,0,,3.6,1.0
+Oliver Rodriguez,Male,23,Bachelor's,Computer Science,University of Maryland--College Park,1,63000.0,3.7,2.0
+Chloe Hernandez,Female,26,Bachelor's,Electrical Engineering,University of Rochester,1,62000.0,3.8,3.0
+Ava Lee,Female,24,Bachelor's,Information Technology,University of California--Santa Cruz,1,60000.0,3.7,2.0
+Liam Perez,Male,25,Bachelor's,Computer Science,University of Connecticut,1,61000.0,3.5,1.0
+Isabella Martinez,Female,23,Bachelor's,Electronics and Communication,University of California--Riverside,0,,3.9,2.0
+Alexander Lee,Male,26,Bachelor's,Information Technology,University of Delaware,1,65000.0,3.7,1.0
+Sophia Johnson,Female,24,Bachelor's,Mechanical Engineering,University of California--San Francisco,1,66000.0,3.8,3.0
+Lucas Taylor,Male,23,Bachelor's,Computer Science,University of Texas--Dallas,1,63000.0,3.6,1.0
+Emma Martinez,Female,26,Bachelor's,Electronics and Communication,University of Virginia,1,64000.0,3.9,2.0
+Aiden Davis,Male,24,Bachelor's,Computer Science,University of Michigan--Ann Arbor,1,67000.0,3.9,3.0
+Mia Wilson,Female,23,Bachelor's,Electrical Engineering,University of Pennsylvania,0,,3.7,2.0
+Jack Garcia,Male,26,Bachelor's,Information Technology,University of Washington,1,67000.0,3.8,3.0
+Emma Lopez,Female,24,Bachelor's,Mechanical Engineering,University of California--Berkeley,1,66000.0,3.9,3.0
+Oliver Rodriguez,Male,23,Bachelor's,Computer Science,University of Illinois--Urbana-Champaign,1,65000.0,3.8,3.0
+Chloe Hernandez,Female,26,Bachelor's,Electrical Engineering,University of Colorado--Boulder,1,66000.0,3.7,2.0
+Ava Lee,Female,24,Bachelor's,Information Technology,University of North Carolina--Chapel Hill,0,,3.6,1.0
+Liam Perez,Male,25,Bachelor's,Computer Science,University of Maryland--College Park,1,63000.0,3.7,2.0
+Isabella Martinez,Female,23,Bachelor's,Electronics and Communication,University of Rochester,1,62000.0,3.8,3.0
+Alexander Lee,Male,26,Bachelor's,Information Technology,University of California--Santa Cruz,1,60000.0,3.7,2.0
+Sophia Johnson,Female,24,Bachelor's,Mechanical Engineering,University of Connecticut,1,61000.0,3.5,1.0
+Lucas Taylor,Male,23,Bachelor's,Computer Science,University of California--Riverside,0,,3.9,2.0
+Emma Martinez,Female,26,Bachelor's,Electronics and Communication,University of Delaware,1,65000.0,3.7,1.0
+Aiden Davis,Male,24,Bachelor's,Computer Science,University of California--San Francisco,1,66000.0,3.8,3.0
+Mia Wilson,Female,23,Bachelor's,Electrical Engineering,University of Texas--Dallas,1,63000.0,3.6,1.0
+Jack Garcia,Male,26,Bachelor's,Information Technology,University of Virginia,1,64000.0,3.9,2.0
+Emma Lopez,Female,24,Bachelor's,Mechanical Engineering,University of Michigan--Ann Arbor,1,67000.0,3.9,3.0
+Oliver Rodriguez,Male,23,Bachelor's,Computer Science,University of Pennsylvania,0,,3.7,2.0
+Chloe Hernandez,Female,26,Bachelor's,Electrical Engineering,University of Washington,1,67000.0,3.8,3.0
+Ava Lee,Female,24,Bachelor's,Information Technology,University of California--Berkeley,1,66000.0,3.9,3.0
+Liam Perez,Male,25,Bachelor's,Computer Science,University of Illinois--Urbana-Champaign,1,65000.0,3.8,3.0
+Isabella Martinez,Female,23,Bachelor's,Electronics and Communication,University of Colorado--Boulder,1,66000.0,3.7,2.0
+Alexander Lee,Male,26,Bachelor's,Information Technology,University of North Carolina--Chapel Hill,0,,3.6,1.0
+Sophia Johnson,Female,24,Bachelor's,Mechanical Engineering,University of Maryland--College Park,1,63000.0,3.7,2.0
+Lucas Taylor,Male,23,Bachelor's,Computer Science,University of Rochester,1,62000.0,3.8,3.0
+Emma Martinez,Female,26,Bachelor's,Electronics and Communication,University of California--Santa Cruz,1,60000.0,3.7,2.0
+Aiden Davis,Male,24,Bachelor's,Computer Science,University of Connecticut,1,61000.0,3.5,1.0
+Mia Wilson,Female,23,Bachelor's,Electrical Engineering,University of California--Riverside,0,,3.9,2.0
+Jack Garcia,Male,26,Bachelor's,Information Technology,University of Delaware,1,65000.0,3.7,1.0
+Emma Lopez,Female,24,Bachelor's,Mechanical Engineering,University of California--San Francisco,1,66000.0,3.8,3.0
+Oliver Rodriguez,Male,23,Bachelor's,Computer Science,University of Texas--Dallas,1,63000.0,3.6,1.0
+Chloe Hernandez,Female,26,Bachelor's,Electrical Engineering,University of Virginia,1,64000.0,3.9,2.0
+Ava Lee,Female,24,Bachelor's,Information Technology,University of Michigan--Ann Arbor,1,67000.0,3.9,3.0
+Liam Perez,Male,25,Bachelor's,Computer Science,University of Pennsylvania,0,,3.7,2.0
+Isabella Martinez,Female,23,Bachelor's,Electronics and Communication,University of Washington,1,67000.0,3.8,3.0
+Alexander Lee,Male,26,Bachelor's,Information Technology,University of California--Berkeley,1,66000.0,3.9,3.0
+Sophia Johnson,Female,24,Bachelor's,Mechanical Engineering,University of Illinois--Urbana-Champaign,1,65000.0,3.8,3.0
+Lucas Taylor,Male,23,Bachelor's,Computer Science,University of Colorado--Boulder,1,66000.0,3.7,2.0
+Emma Martinez,Female,26,Bachelor's,Electronics and Communication,University of North Carolina--Chapel Hill,0,,3.6,1.0
+Aiden Davis,Male,24,Bachelor's,Computer Science,University of Maryland--College Park,1,63000.0,3.7,2.0
+Mia Wilson,Female,23,Bachelor's,Electrical Engineering,University of Rochester,1,62000.0,3.8,3.0
+Jack Garcia,Male,26,Bachelor's,Information Technology,University of California--Santa Cruz,1,60000.0,3.7,2.0
+Emma Lopez,Female,24,Bachelor's,Mechanical Engineering,University of Connecticut,1,61000.0,3.5,1.0
+Oliver Rodriguez,Male,23,Bachelor's,Computer Science,University of California--Riverside,0,,3.9,2.0
+Chloe Hernandez,Female,26,Bachelor's,Electrical Engineering,University of Delaware,1,65000.0,3.7,1.0
+Ava Lee,Female,24,Bachelor's,Information Technology,University of California--San Francisco,1,66000.0,3.8,3.0
+Liam Perez,Male,25,Bachelor's,Computer Science,University of Texas--Dallas,1,63000.0,3.6,1.0
+Isabella Martinez,Female,23,Bachelor's,Electronics and Communication,University of Virginia,1,64000.0,3.9,2.0
+Alexander Lee,Male,26,Bachelor's,Information Technology,University of Michigan--Ann Arbor,1,67000.0,3.9,3.0
+Sophia Johnson,Female,24,Bachelor's,Mechanical Engineering,University of Pennsylvania,0,,3.7,2.0
+Lucas Taylor,Male,23,Bachelor's,Computer Science,University of Washington,1,67000.0,3.8,3.0
+Emma Martinez,Female,26,Bachelor's,Electronics and Communication,University of California--Berkeley,1,66000.0,3.9,3.0
+Aiden Davis,Male,24,Bachelor's,Computer Science,University of Illinois--Urbana-Champaign,1,65000.0,3.8,3.0
+Mia Wilson,Female,23,Bachelor's,Electrical Engineering,University of Colorado--Boulder,1,66000.0,3.7,2.0
+Jack Garcia,Male,26,Bachelor's,Information Technology,University of North Carolina--Chapel Hill,0,,3.6,1.0

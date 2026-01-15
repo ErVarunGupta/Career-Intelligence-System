@@ -1,0 +1,17 @@
+# Core
+numpy
+pandas
+
+# Machine Learning
+scikit-learn
+joblib
+
+# Visualization (optional but useful)
+matplotlib
+seaborn
+
+# UI
+streamlit
+
+# Utilities
+python-dateutil

@@ -1,0 +1,101 @@
+resume_category,job_required_skills,candidate_skills,missing_skills,readiness_score
+Data Science,"['microsoft office', 'remote desktop', 'technical support']","['sql', 'machine learning', 'deep learning', 'scikit', 'docker', 'git', 'computer vision', 'javascript', 'css', 'java', 'pandas', 'html', 'python', 'numpy', 'tableau']","['microsoft office', 'remote desktop', 'technical support']",0.0
+Data Science,"['microsoft office', 'remote desktop', 'technical support']","['machine learning', 'git', 'sklearn', 'aws', 'keras', 'python']","['microsoft office', 'remote desktop', 'technical support']",0.0
+Data Science,"['microsoft office', 'remote desktop', 'technical support']","['machine learning', 'excel', 'deep learning', 'linux', 'git', 'data analysis', 'java', 'python', 'sql']","['microsoft office', 'remote desktop', 'technical support']",0.0
+Data Science,"['microsoft office', 'remote desktop', 'technical support']","['machine learning', 'deep learning', 'git', 'python', 'sql', 'tableau', 'nlp']","['microsoft office', 'remote desktop', 'technical support']",0.0
+Data Science,"['microsoft office', 'remote desktop', 'technical support']","['python', 'java', 'data analysis']","['microsoft office', 'remote desktop', 'technical support']",0.0
+Data Science,"['microsoft office', 'remote desktop', 'technical support']","['python', 'html', 'machine learning', 'excel']","['microsoft office', 'remote desktop', 'technical support']",0.0
+Data Science,"['microsoft office', 'remote desktop', 'technical support']","['python', 'machine learning', 'tableau', 'excel']","['microsoft office', 'remote desktop', 'technical support']",0.0
+Data Science,"['microsoft office', 'remote desktop', 'technical support']","['sql', 'machine learning', 'deep learning', 'scikit', 'linux', 'sklearn', 'java', 'pandas', 'keras', 'tensorflow', 'python', 'numpy', 'nlp']","['microsoft office', 'remote desktop', 'technical support']",0.0
+Data Science,"['microsoft office', 'remote desktop', 'technical support']","['sql', 'machine learning', 'deep learning', 'scikit', 'css', 'pandas', 'html', 'python', 'numpy', 'nlp']","['microsoft office', 'remote desktop', 'technical support']",0.0
+Data Science,"['microsoft office', 'remote desktop', 'technical support']","['hadoop', 'machine learning', 'data analysis', 'spark', 'aws', 'python', 'tableau', 'nlp']","['microsoft office', 'remote desktop', 'technical support']",0.0
+Data Science,"['microsoft office', 'remote desktop', 'technical support']","['sql', 'machine learning', 'deep learning', 'scikit', 'docker', 'git', 'computer vision', 'javascript', 'css', 'java', 'pandas', 'html', 'python', 'numpy', 'tableau']","['microsoft office', 'remote desktop', 'technical support']",0.0
+Data Science,"['microsoft office', 'remote desktop', 'technical support']","['machine learning', 'git', 'sklearn', 'aws', 'keras', 'python']","['microsoft office', 'remote desktop', 'technical support']",0.0
+Data Science,"['microsoft office', 'remote desktop', 'technical support']","['machine learning', 'excel', 'deep learning', 'linux', 'git', 'data analysis', 'java', 'python', 'sql']","['microsoft office', 'remote desktop', 'technical support']",0.0
+Data Science,"['microsoft office', 'remote desktop', 'technical support']","['machine learning', 'deep learning', 'git', 'python', 'sql', 'tableau', 'nlp']","['microsoft office', 'remote desktop', 'technical support']",0.0
+Data Science,"['microsoft office', 'remote desktop', 'technical support']","['python', 'java', 'data analysis']","['microsoft office', 'remote desktop', 'technical support']",0.0
+Data Science,"['microsoft office', 'remote desktop', 'technical support']","['python', 'html', 'machine learning', 'excel']","['microsoft office', 'remote desktop', 'technical support']",0.0
+Data Science,"['microsoft office', 'remote desktop', 'technical support']","['python', 'machine learning', 'tableau', 'excel']","['microsoft office', 'remote desktop', 'technical support']",0.0
+Data Science,"['microsoft office', 'remote desktop', 'technical support']","['sql', 'machine learning', 'deep learning', 'scikit', 'linux', 'sklearn', 'java', 'pandas', 'keras', 'tensorflow', 'python', 'numpy', 'nlp']","['microsoft office', 'remote desktop', 'technical support']",0.0
+Data Science,"['microsoft office', 'remote desktop', 'technical support']","['sql', 'machine learning', 'deep learning', 'scikit', 'css', 'pandas', 'html', 'python', 'numpy', 'nlp']","['microsoft office', 'remote desktop', 'technical support']",0.0
+Data Science,"['microsoft office', 'remote desktop', 'technical support']","['hadoop', 'machine learning', 'data analysis', 'spark', 'aws', 'python', 'tableau', 'nlp']","['microsoft office', 'remote desktop', 'technical support']",0.0
+Data Science,"['microsoft office', 'remote desktop', 'technical support']","['sql', 'machine learning', 'deep learning', 'scikit', 'docker', 'git', 'computer vision', 'javascript', 'css', 'java', 'pandas', 'html', 'python', 'numpy', 'tableau']","['microsoft office', 'remote desktop', 'technical support']",0.0
+Data Science,"['microsoft office', 'remote desktop', 'technical support']","['machine learning', 'git', 'sklearn', 'aws', 'keras', 'python']","['microsoft office', 'remote desktop', 'technical support']",0.0
+Data Science,"['microsoft office', 'remote desktop', 'technical support']","['machine learning', 'excel', 'deep learning', 'linux', 'git', 'data analysis', 'java', 'python', 'sql']","['microsoft office', 'remote desktop', 'technical support']",0.0
+Data Science,"['microsoft office', 'remote desktop', 'technical support']","['machine learning', 'deep learning', 'git', 'python', 'sql', 'tableau', 'nlp']","['microsoft office', 'remote desktop', 'technical support']",0.0
+Data Science,"['microsoft office', 'remote desktop', 'technical support']","['python', 'java', 'data analysis']","['microsoft office', 'remote desktop', 'technical support']",0.0
+Data Science,"['microsoft office', 'remote desktop', 'technical support']","['python', 'html', 'machine learning', 'excel']","['microsoft office', 'remote desktop', 'technical support']",0.0
+Data Science,"['microsoft office', 'remote desktop', 'technical support']","['python', 'machine learning', 'tableau', 'excel']","['microsoft office', 'remote desktop', 'technical support']",0.0
+Data Science,"['microsoft office', 'remote desktop', 'technical support']","['sql', 'machine learning', 'deep learning', 'scikit', 'linux', 'sklearn', 'java', 'pandas', 'keras', 'tensorflow', 'python', 'numpy', 'nlp']","['microsoft office', 'remote desktop', 'technical support']",0.0
+Data Science,"['microsoft office', 'remote desktop', 'technical support']","['sql', 'machine learning', 'deep learning', 'scikit', 'css', 'pandas', 'html', 'python', 'numpy', 'nlp']","['microsoft office', 'remote desktop', 'technical support']",0.0
+Data Science,"['microsoft office', 'remote desktop', 'technical support']","['hadoop', 'machine learning', 'data analysis', 'spark', 'aws', 'python', 'tableau', 'nlp']","['microsoft office', 'remote desktop', 'technical support']",0.0
+Data Science,"['microsoft office', 'remote desktop', 'technical support']","['sql', 'machine learning', 'deep learning', 'scikit', 'docker', 'git', 'computer vision', 'javascript', 'css', 'java', 'pandas', 'html', 'python', 'numpy', 'tableau']","['microsoft office', 'remote desktop', 'technical support']",0.0
+Data Science,"['microsoft office', 'remote desktop', 'technical support']","['machine learning', 'git', 'sklearn', 'aws', 'keras', 'python']","['microsoft office', 'remote desktop', 'technical support']",0.0
+Data Science,"['microsoft office', 'remote desktop', 'technical support']","['machine learning', 'excel', 'deep learning', 'linux', 'git', 'data analysis', 'java', 'python', 'sql']","['microsoft office', 'remote desktop', 'technical support']",0.0
+Data Science,"['microsoft office', 'remote desktop', 'technical support']","['machine learning', 'deep learning', 'git', 'python', 'sql', 'tableau', 'nlp']","['microsoft office', 'remote desktop', 'technical support']",0.0
+Data Science,"['microsoft office', 'remote desktop', 'technical support']","['python', 'java', 'data analysis']","['microsoft office', 'remote desktop', 'technical support']",0.0
+Data Science,"['microsoft office', 'remote desktop', 'technical support']","['python', 'html', 'machine learning', 'excel']","['microsoft office', 'remote desktop', 'technical support']",0.0
+Data Science,"['microsoft office', 'remote desktop', 'technical support']","['python', 'machine learning', 'tableau', 'excel']","['microsoft office', 'remote desktop', 'technical support']",0.0
+Data Science,"['microsoft office', 'remote desktop', 'technical support']","['sql', 'machine learning', 'deep learning', 'scikit', 'linux', 'sklearn', 'java', 'pandas', 'keras', 'tensorflow', 'python', 'numpy', 'nlp']","['microsoft office', 'remote desktop', 'technical support']",0.0
+Data Science,"['microsoft office', 'remote desktop', 'technical support']","['sql', 'machine learning', 'deep learning', 'scikit', 'css', 'pandas', 'html', 'python', 'numpy', 'nlp']","['microsoft office', 'remote desktop', 'technical support']",0.0
+Data Science,"['microsoft office', 'remote desktop', 'technical support']","['hadoop', 'machine learning', 'data analysis', 'spark', 'aws', 'python', 'tableau', 'nlp']","['microsoft office', 'remote desktop', 'technical support']",0.0
+HR,"['microsoft office', 'remote desktop', 'technical support']",[],"['microsoft office', 'remote desktop', 'technical support']",0.0
+HR,"['microsoft office', 'remote desktop', 'technical support']",['excel'],"['microsoft office', 'remote desktop', 'technical support']",0.0
+HR,"['microsoft office', 'remote desktop', 'technical support']",[],"['microsoft office', 'remote desktop', 'technical support']",0.0
+HR,"['microsoft office', 'remote desktop', 'technical support']",[],"['microsoft office', 'remote desktop', 'technical support']",0.0
+HR,"['microsoft office', 'remote desktop', 'technical support']",[],"['microsoft office', 'remote desktop', 'technical support']",0.0
+HR,"['microsoft office', 'remote desktop', 'technical support']",[],"['microsoft office', 'remote desktop', 'technical support']",0.0
+HR,"['microsoft office', 'remote desktop', 'technical support']",[],"['microsoft office', 'remote desktop', 'technical support']",0.0
+HR,"['microsoft office', 'remote desktop', 'technical support']",[],"['microsoft office', 'remote desktop', 'technical support']",0.0
+HR,"['microsoft office', 'remote desktop', 'technical support']",[],"['microsoft office', 'remote desktop', 'technical support']",0.0
+HR,"['microsoft office', 'remote desktop', 'technical support']",[],"['microsoft office', 'remote desktop', 'technical support']",0.0
+HR,"['microsoft office', 'remote desktop', 'technical support']",['java'],"['microsoft office', 'remote desktop', 'technical support']",0.0
+HR,"['microsoft office', 'remote desktop', 'technical support']",[],"['microsoft office', 'remote desktop', 'technical support']",0.0
+HR,"['microsoft office', 'remote desktop', 'technical support']",['excel'],"['microsoft office', 'remote desktop', 'technical support']",0.0
+HR,"['microsoft office', 'remote desktop', 'technical support']",[],"['microsoft office', 'remote desktop', 'technical support']",0.0
+HR,"['microsoft office', 'remote desktop', 'technical support']",[],"['microsoft office', 'remote desktop', 'technical support']",0.0
+HR,"['microsoft office', 'remote desktop', 'technical support']",[],"['microsoft office', 'remote desktop', 'technical support']",0.0
+HR,"['microsoft office', 'remote desktop', 'technical support']",[],"['microsoft office', 'remote desktop', 'technical support']",0.0
+HR,"['microsoft office', 'remote desktop', 'technical support']",[],"['microsoft office', 'remote desktop', 'technical support']",0.0
+HR,"['microsoft office', 'remote desktop', 'technical support']",[],"['microsoft office', 'remote desktop', 'technical support']",0.0
+HR,"['microsoft office', 'remote desktop', 'technical support']",[],"['microsoft office', 'remote desktop', 'technical support']",0.0
+HR,"['microsoft office', 'remote desktop', 'technical support']",[],"['microsoft office', 'remote desktop', 'technical support']",0.0
+HR,"['microsoft office', 'remote desktop', 'technical support']",['java'],"['microsoft office', 'remote desktop', 'technical support']",0.0
+HR,"['microsoft office', 'remote desktop', 'technical support']",[],"['microsoft office', 'remote desktop', 'technical support']",0.0
+HR,"['microsoft office', 'remote desktop', 'technical support']",['excel'],"['microsoft office', 'remote desktop', 'technical support']",0.0
+HR,"['microsoft office', 'remote desktop', 'technical support']",[],"['microsoft office', 'remote desktop', 'technical support']",0.0
+HR,"['microsoft office', 'remote desktop', 'technical support']",[],"['microsoft office', 'remote desktop', 'technical support']",0.0
+HR,"['microsoft office', 'remote desktop', 'technical support']",[],"['microsoft office', 'remote desktop', 'technical support']",0.0
+HR,"['microsoft office', 'remote desktop', 'technical support']",[],"['microsoft office', 'remote desktop', 'technical support']",0.0
+HR,"['microsoft office', 'remote desktop', 'technical support']",[],"['microsoft office', 'remote desktop', 'technical support']",0.0
+HR,"['microsoft office', 'remote desktop', 'technical support']",[],"['microsoft office', 'remote desktop', 'technical support']",0.0
+HR,"['microsoft office', 'remote desktop', 'technical support']",[],"['microsoft office', 'remote desktop', 'technical support']",0.0
+HR,"['microsoft office', 'remote desktop', 'technical support']",[],"['microsoft office', 'remote desktop', 'technical support']",0.0
+HR,"['microsoft office', 'remote desktop', 'technical support']",['java'],"['microsoft office', 'remote desktop', 'technical support']",0.0
+HR,"['microsoft office', 'remote desktop', 'technical support']",[],"['microsoft office', 'remote desktop', 'technical support']",0.0
+HR,"['microsoft office', 'remote desktop', 'technical support']",['excel'],"['microsoft office', 'remote desktop', 'technical support']",0.0
+HR,"['microsoft office', 'remote desktop', 'technical support']",[],"['microsoft office', 'remote desktop', 'technical support']",0.0
+HR,"['microsoft office', 'remote desktop', 'technical support']",[],"['microsoft office', 'remote desktop', 'technical support']",0.0
+HR,"['microsoft office', 'remote desktop', 'technical support']",[],"['microsoft office', 'remote desktop', 'technical support']",0.0
+HR,"['microsoft office', 'remote desktop', 'technical support']",[],"['microsoft office', 'remote desktop', 'technical support']",0.0
+HR,"['microsoft office', 'remote desktop', 'technical support']",[],"['microsoft office', 'remote desktop', 'technical support']",0.0
+HR,"['microsoft office', 'remote desktop', 'technical support']",[],"['microsoft office', 'remote desktop', 'technical support']",0.0
+HR,"['microsoft office', 'remote desktop', 'technical support']",[],"['microsoft office', 'remote desktop', 'technical support']",0.0
+HR,"['microsoft office', 'remote desktop', 'technical support']",[],"['microsoft office', 'remote desktop', 'technical support']",0.0
+HR,"['microsoft office', 'remote desktop', 'technical support']",['java'],"['microsoft office', 'remote desktop', 'technical support']",0.0
+Advocate,"['microsoft office', 'remote desktop', 'technical support']",[],"['microsoft office', 'remote desktop', 'technical support']",0.0
+Advocate,"['microsoft office', 'remote desktop', 'technical support']",[],"['microsoft office', 'remote desktop', 'technical support']",0.0
+Advocate,"['microsoft office', 'remote desktop', 'technical support']",[],"['microsoft office', 'remote desktop', 'technical support']",0.0
+Advocate,"['microsoft office', 'remote desktop', 'technical support']",[],"['microsoft office', 'remote desktop', 'technical support']",0.0
+Advocate,"['microsoft office', 'remote desktop', 'technical support']",['aws'],"['microsoft office', 'remote desktop', 'technical support']",0.0
+Advocate,"['microsoft office', 'remote desktop', 'technical support']",[],"['microsoft office', 'remote desktop', 'technical support']",0.0
+Advocate,"['microsoft office', 'remote desktop', 'technical support']",[],"['microsoft office', 'remote desktop', 'technical support']",0.0
+Advocate,"['microsoft office', 'remote desktop', 'technical support']",[],"['microsoft office', 'remote desktop', 'technical support']",0.0
+Advocate,"['microsoft office', 'remote desktop', 'technical support']",[],"['microsoft office', 'remote desktop', 'technical support']",0.0
+Advocate,"['microsoft office', 'remote desktop', 'technical support']",[],"['microsoft office', 'remote desktop', 'technical support']",0.0
+Advocate,"['microsoft office', 'remote desktop', 'technical support']",[],"['microsoft office', 'remote desktop', 'technical support']",0.0
+Advocate,"['microsoft office', 'remote desktop', 'technical support']",[],"['microsoft office', 'remote desktop', 'technical support']",0.0
+Advocate,"['microsoft office', 'remote desktop', 'technical support']",[],"['microsoft office', 'remote desktop', 'technical support']",0.0
+Advocate,"['microsoft office', 'remote desktop', 'technical support']",[],"['microsoft office', 'remote desktop', 'technical support']",0.0
+Advocate,"['microsoft office', 'remote desktop', 'technical support']",['aws'],"['microsoft office', 'remote desktop', 'technical support']",0.0
+Advocate,"['microsoft office', 'remote desktop', 'technical support']",[],"['microsoft office', 'remote desktop', 'technical support']",0.0
